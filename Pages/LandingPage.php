@@ -20,7 +20,7 @@
   </head>
   <body>
     <?php echo "Page Loaded!"; ?>
-    <?php include("../Php/header.php"); ?>
+    <?php include("../Php/Header.php"); ?>
     <?php echo "Header loaded!"; ?>
     <?php include("../Php/banner.php");
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - Services");
