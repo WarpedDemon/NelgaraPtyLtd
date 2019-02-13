@@ -21,9 +21,11 @@
   <body>
     <?php echo "Page Loaded!"; ?>
     <?php include("../Php/header.php"); ?>
+    <?php echo "Header loaded!"; ?>
     <?php include("../Php/banner.php");
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - Services");
     ?>
+    <?php echo "Banner loaded!"; ?>
     <?php include("../Php/maincontent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "<b>What We Do</b>", "<h2>Innovative Commercial and Project Management Solutions</h2>
           Nelgara Pty Ltd is an Australian commercial management consulting firm that leverages its significant industry experience to develop and apply best practice solutions to a broad mix of service industries including oil and gas, water treatment, power distribution, infrastructure, resources and mining for both private and public institutions.
