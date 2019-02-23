@@ -11,7 +11,7 @@ class MainContentHandler {
     if($ImageSource == "Random" ||$ImageSource == "random" ||$ImageSource == "cheese")
     {
       $imageList = ["../img/project2.png", "../img/road2.png", "../img/startup.jpg", "../img/train.png", "../img/office.jpg", "../img/bridge.png", "../img/bigminner.png", "../img/desal.png", "../img/miningtruck.png", "../img/openpit.png", "../img/room.jpg"];
-
+ 
       $random = rand(0, sizeof($imageList)-1);
       echo "here!";
       while(in_array($random, $this->Used))
