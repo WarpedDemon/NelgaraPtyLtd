@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", Initialize, false);
-var active = true;
+var active = false;
 var lastSwitch = 0;
 var activeDiv = 1;
 var Active_Images = [
@@ -38,7 +38,6 @@ function Initialize() {
   //Inistantiate the class.
   PageHandler = new NelgaraMaster(document);
   PageHandler.Initialize();
-  PageHandler.SetDarkMode(true)
   PageHandler.OnClickLightSwitch()
   window.onscroll = OnScroll;
 }
@@ -214,7 +213,6 @@ class NelgaraMaster {
   InitializeBanner(arrayone, arraytwo) {
     Image_Sources = arrayone;
     Image_Sources2 = arraytwo;
-    console.log(arrayone);
     document.getElementById("ImgOne").src = Image_Sources[0];
     document.getElementById("ImgOne").style.width = "100%";
     document.getElementById("ImgOne").style.height = "100%";
