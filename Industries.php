@@ -137,6 +137,7 @@
         </pre>
         ");
     ?>
+    <span style="height:50px;"> </span>
     <?php include("Php/Footer.php");
      ?>
   </body>

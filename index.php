@@ -77,6 +77,7 @@
           We can also provide solutions through our network of consultant partners in the industry.
           </pre>");
     ?>
+    <span style="height:50px;"> </span>
     <?php include("Php/Footer.php");
      ?>
   </body>
