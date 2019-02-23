@@ -38,7 +38,7 @@ function Initialize() {
   //Inistantiate the class.
   PageHandler = new NelgaraMaster(document);
   PageHandler.Initialize();
-  PageHandler.OnClickLightSwitch()
+  manualBlackOut()
   window.onscroll = OnScroll;
 }
 
@@ -70,6 +70,26 @@ function changeBackground(active)
         headerDark.style.opacity = 1;
       }, 500);
     }
+}
+
+function manualBlackOut()
+{
+  if(active)
+  {
+    $('body').animate({
+      backgroundColor: "#222222",
+      color: "white"
+    }, 500);
+    changeBackground(active);
+    active = false;
+  }else{
+    $('body').animate({
+      backgroundColor: "#FFFAFA",
+      color: "black"
+    }, 500);
+    changeBackground(active);
+    active = true;
+  }
 }
 
 function OnClickLightSwitch()
@@ -110,7 +130,6 @@ function DisplayMenu(menu)
   if(PageHandler.GetDarkMode() == false) {
     menu.style.display = "block";
     menu.style.zIndex = 1000;
-    console.log(PageHandler.GetMenuElement());
     PageHandler.GetMenuElement().style.display = "block";
     PageHandler.GetMenuElement().className = "NavClass animated fadeInDown";
   } else {
@@ -135,7 +154,6 @@ function CheckMenuState() {
   //console.log("Values: " + IsMenuOpen(MenuElem) + ", and, " + PageHandler.GetDisplay() + ", and " + PageHandler.GetSmallMode())
   if(!IsMenuOpen(MenuElem) && PageHandler.GetDisplay() && PageHandler.GetSmallMode() && PageHandler.GetGate()) {
     DisplayMenu(MenuElem);
-    console.log("Ran!");
     PageHandler.SetGate(false)
   }
   if(IsMenuOpen(MenuElem) && !PageHandler.GetDisplay() && PageHandler.GetSmallMode() && PageHandler.GetGate()) {
@@ -149,7 +167,6 @@ function CheckMenuState() {
 function OnClickHM()
 {
   PageHandler.SetDisplay(!PageHandler.GetDisplay());
-  console.log(PageHandler.GetDisplay());
   PageHandler.SetGate(true);
 }
 
