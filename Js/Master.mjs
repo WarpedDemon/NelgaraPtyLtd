@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", Initialize, false);
-var active = false;
+var active = true;
 var lastSwitch = 0;
 var activeDiv = 1;
 var Active_Images = [
@@ -38,7 +38,7 @@ function Initialize() {
   //Inistantiate the class.
   PageHandler = new NelgaraMaster(document);
   PageHandler.Initialize();
-  manualBlackOut()
+  PageHandler.OnClickLightSwitch()
   window.onscroll = OnScroll;
 }
 
@@ -70,26 +70,6 @@ function changeBackground(active)
         headerDark.style.opacity = 1;
       }, 500);
     }
-}
-
-function manualBlackOut()
-{
-  if(active)
-  {
-    $('body').animate({
-      backgroundColor: "#222222",
-      color: "white"
-    }, 500);
-    changeBackground(active);
-    active = false;
-  }else{
-    $('body').animate({
-      backgroundColor: "#FFFAFA",
-      color: "black"
-    }, 500);
-    changeBackground(active);
-    active = true;
-  }
 }
 
 function OnClickLightSwitch()
@@ -125,6 +105,7 @@ function HideMenu(menu) {
     },500);
   }
 }
+
 function DisplayMenu(menu)
 {
   if(PageHandler.GetDarkMode() == false) {
@@ -147,7 +128,6 @@ function IsMenuOpen(menu)
   }
 }
 
-
 function CheckMenuState() {
   var MenuElem = PageHandler.GetMenuElement();
 
@@ -159,8 +139,6 @@ function CheckMenuState() {
   if(IsMenuOpen(MenuElem) && !PageHandler.GetDisplay() && PageHandler.GetSmallMode() && PageHandler.GetGate()) {
     HideMenu(MenuElem);
     PageHandler.SetGate(false);
-
-
   }
 }
 
@@ -217,7 +195,6 @@ class NelgaraMaster {
     this.ctx = document;
     if(window.innerWidth < 1528) {
       this.SmallMode = true;
-      console.log("hi");
       document.getElementById("Nav").style.display = "none !important";
       document.getElementById("NavDark").style.display = "none !important";
     } else {
