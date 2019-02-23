@@ -65,7 +65,8 @@
           integrated with the latest technology solutions to provide a unique
           firm that delivers sustainable outcomes for an ever-changing world.
           We are Skilled in Project Leadership, People, Schedule and Cost Management,
-          Sub-Contractor Management, and Stressed Project Recovery (more consultants are joining monthly).
+          Sub-Contractor Management, and Stressed Project Recovery
+          (more consultants are joining monthly).
           </pre>");
 
         $MainContentHandlerHelper->CreateNewContent("cheese", "<b>Locations</b>", "
