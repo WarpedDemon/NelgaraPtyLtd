@@ -17,7 +17,7 @@ class MainContentHandler {
     {
       $ImageSource = "../img/defaultAccountIcon.jpg";
     }
-    
+
     echo '
         <div id="MainContent'. $this->SaveIndex .'" class="MainContentClass animated fadeInLeft wow">
           <img id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>

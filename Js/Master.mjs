@@ -38,6 +38,7 @@ function Initialize() {
   //Inistantiate the class.
   PageHandler = new NelgaraMaster(document);
   PageHandler.Initialize();
+  OnClickLightSwitch();
   window.onscroll = OnScroll;
 }
 
