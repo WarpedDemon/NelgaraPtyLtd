@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" name="Nelgara Commercial Construction Website Trading Site Nick Noonan Katherine Noonan Peter Hooks">
+    <meta name="description" content="Commercial Construction Trading Site Nelgara: E-Mail: Nelgara@outlook.com TEL: +61 (0)434 33 161">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript,Php">
+    <meta name="author" content="James Nicholas Noonan">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
     <link rel="stylesheet" href="Css/Extras.css">
@@ -23,13 +28,14 @@
     <?php include("Php/banner.php");
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>About</b>");
     ?>
-    <?php include("Php/maincontent.php");
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Contact</b>", "Executive Headquarters<br/><br/>
-        28 Henderson Drive<br/><br/>
-        Kallaroo, Perth,<br/><br/>
-        WA 6025<br/><br/>
-        TEL: +61 (0)434 33 161<br/><br/>
-        E-Mail: Nelgara@outlook.com<br/><br/>
+    <?php include("maincontent.php");
+      $MainContentHandlerHelper->CreateNewContent("random", "<b>Contact</b>", "
+        <p><h2>Executive Headquarters</h2></p>
+        <p><h3>28 Henderson Drive,</h3></p>
+        <p><h3>Kallaroo, Perth,</h3></p>
+        <p><h3>WA 6025,</h3></p>
+        <p><h3>TEL: +61 (0)434 33 161,</h3></p>
+        <p><h3>E-Mail: Nelgara@outlook.com</h3></p>
         ");
 
     ?>

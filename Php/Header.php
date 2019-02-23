@@ -7,10 +7,10 @@ echo '
       <span id="Hamburger" style="color:white;" class="HamburgerClass fa fa-bars"></span>
       </div>
         <ul id="Nav" class="NavClass">
-          <a href="Pages/Services.php" id="Services" class="ServicesClass"><li class="animate fadeInLeft wow" data-wow-delay="0.25s"><b><p>Services</p></b></li></a>
-          <a href="Pages/Industries.php" id="Industries" class="IndustriesClass"><li class="animate fadeInLeft wow" data-wow-delay="0.50s"><b><p>Industries</p></b></li></a>
-          <a href="Pages/About.php" id="About" class="AboutClass"><li class="animate fadeInLeft wow" data-wow-delay="0.75s"><b><p>About</p></b></li></a>
-          <a href="Pages/People.php" class="PeopleClass EndBorderRadius" id="People"><li class="animate fadeInLeft wow" data-wow-delay="1s"><b><p>People</p></b></li></a>
+          <a href="Services.php" id="Services" class="ServicesClass"><li class="animate fadeInLeft wow" data-wow-delay="0.25s"><b><p>Services</p></b></li></a>
+          <a href="Industries.php" id="Industries" class="IndustriesClass"><li class="animate fadeInLeft wow" data-wow-delay="0.50s"><b><p>Industries</p></b></li></a>
+          <a href="About.php" id="About" class="AboutClass"><li class="animate fadeInLeft wow" data-wow-delay="0.75s"><b><p>About</p></b></li></a>
+          <a href="People.php" class="PeopleClass EndBorderRadius" id="People"><li class="animate fadeInLeft wow" data-wow-delay="1s"><b><p>People</p></b></li></a>
         </ul>
     </div>
 

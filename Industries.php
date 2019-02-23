@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" name="Nelgara Commercial Construction Website Trading Site Nick Noonan Katherine Noonan Peter Hooks">
+    <meta name="description" content="Commercial Construction Trading Site Nelgara: E-Mail: Nelgara@outlook.com TEL: +61 (0)434 33 161">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript,Php">
+    <meta name="author" content="James Nicholas Noonan">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
     <link rel="stylesheet" href="Css/Extras.css">
@@ -23,6 +28,7 @@
     ?>
     <?php include("Php/maincontent.php");
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Marine</b>", "
+        <p>
         <li>Humber International Terminal;</li>
         <li>Immingham Western Lead in Jetty;</li>
         <li>Great Yarmouth Outer Harbour;</li>
@@ -31,17 +37,22 @@
         <li>Ipswich Ro-Ro Terminal;</li>
         <li>Teeside Ro-Ro Terminal;</li>
         <li>Multiple Limpet Dam Projects around the UK;</li>
-        <li>Cromer Slipway;</li><br/><br/>
+        <li>Cromer Slipway;</li>
+        </p>
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>LNG</b>", "
+        <p>
         <li>Pluto 2;</li>
         <li>Devil Creek (including Camp);</li>
         <li>Gorgon Utilities Package;</li>
         <li>Inpex Browse Ltd ECI (JV Clough/Maunsell)</li>
-        <li>Newgen Kwinana Power Station (Alstom)</li><br/><br/>
+        <li>Newgen Kwinana Power Station (Alstom)</li>
+        </p>
         ");
+
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Resource Projects</b>", "
+        <p>
         <li>RTIO Cape Lambert A & B camp;</li>
         <li>RTIO North West Coastal Highway (Road Diversion & Bridge over Rail);</li>
         <li>RTIO Mesa J TSF3 (indigenous JV);</li>
@@ -58,18 +69,24 @@
         <li>FMG Solomon Airstrip & Fly Camp;</li>
         <li>Roy Hill Marble Bar Road;</li>
         <li>Tianqi Lithium Kwinana;</li>
-        <li>Talison Greenbushes Mine Expansion (Lithium);</li><br/><br/>
+        <li>Talison Greenbushes Mine Expansion (Lithium);</li>
+        </p>
         ");
+
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Rail Related</b>", "
+        <p>
         <li>Aubin Grove Train Station;</li>
         <li>RTIO Rosella Bellbird Sidings (Indigenous JV);</li>
         <li>BHP 3 Bridges (Launch over 5 live Rail);</li>
         <li>RTIO North West Coastal Highway (Bridge over Rail);</li>
         <li>PTA escalator Replacement Framework;</li>
         <li>Perth City Link;</li>
-        <li>Narngulu Rail Depot;</li><br/><br/>
+        <li>Narngulu Rail Depot;</li>
+        </p>
         ");
+
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Main Roads</b>", "
+        <p>
         <li>Mandurah Traffic Bridge;</li>
         <li>Reid Highway;</li>
         <li>Bruce Highway (Queensland);</li>
@@ -82,21 +99,30 @@
         <li>Great Northern Highway ‘Team Savanah”;</li>
         <li>Abraham Street Geraldton;</li>
         <li>Greenhough Bridge Geraldton</li>
-        <li>Many Projects UK based inclusive of Frameworks (Alliances)</li><br/><br/>
+        <li>Many Projects UK based inclusive of Frameworks (Alliances)</li>
+        </p>
         ");
+
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Water Related</b>", "
+        <p>
         <li>Ellenbrook Water Tank;</li>
         <li>Harvey Water Tank;</li>
         <li>Denmark Water Tank;</li>
         <li>Spring Gulley Pond C;</li>
-        <li>Many Projects UK based inclusive of Frameworks (Alliances);</li><br/><br/>
+        <li>Many Projects UK based inclusive of Frameworks (Alliances);</li>
+        </p>
         ");
+
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Airport Related;</b>", "
+        <p>
         <li>Perth Airport Skybridge;</li>
         <li>Tindall Airforce Base NT;</li>
-        <li>RAAF Base Amberley Buildings & Refurbishments (QLD);</li><br/><br/>
+        <li>RAAF Base Amberley Buildings & Refurbishments (QLD);</li>
+        </p>
         ");
+
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Building Projects</b>", "
+        <p>
         <li>Primehouse Office Development;</li>
         <li>Mount Hospital – Hybrid and Catheter Lab Refurbishment, Medical Gas Equipment Upgrade;</li>
         <li>RAAF Base Amberley Buildings & Refurbishments (QLD);</li>
@@ -108,6 +134,7 @@
         <li>Multiple Projects Sandvik (Stacker Reclaimer construction);</li>
         <li>Muja Coal demolition and refurbishment (Cost Plus Contract Negotiation and agreement);</li>
         <li>ECI /Alliance Contracts include Team Savanah (MRWA), Inpex, Russell Road, Aubin Grove, Escalators Replacement Project, Solomon Airport, Alcoa, Oz Minerals;</li>
+        </p>
         ");
     ?>
     <?php include("Php/Footer.php");
