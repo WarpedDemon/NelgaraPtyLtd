@@ -8,10 +8,14 @@ class MainContentHandler {
     $this->SaveIndex += 1;
     if($ImageSource == "Random" ||$ImageSource == "random" ||$ImageSource == "cheese")
     {
-      $imageList = ["../img/defaultAccountIcon ../img/project2.png", "../img/road2.png", "../img/startup.jpg", "../img/train.png", "../img/office.jpg", "../img/bridge.png", "../img/bigminner.png", "../img/desal.png", "../img/miningtruck.png", "../img/openpit.png", "../img/room.jpg"];
+      $imageList = ["../img/project2.png", "../img/road2.png", "../img/startup.jpg", "../img/train.png", "../img/office.jpg", "../img/bridge.png", "../img/bigminner.png", "../img/desal.png", "../img/miningtruck.png", "../img/openpit.png", "../img/room.jpg"];
       $random = rand(0, sizeof($imageList)-1);
       $ImageSource = $imageList[$random];
+    }
 
+    if($ImageSource == "DefaultAccount")
+    {
+      $ImageSource = "../img/defaultAccountIcon.jpg"
     }
     echo '
         <div id="MainContent'. $this->SaveIndex .'" class="MainContentClass animated fadeInLeft wow">

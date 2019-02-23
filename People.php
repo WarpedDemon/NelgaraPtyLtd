@@ -29,7 +29,7 @@
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>People</b>");
     ?>
     <?php include("Php/maincontent.php");
-      $MainContentHandlerHelper->CreateNewContent("../img/defaultAccountIcon", "<b>Nicholas (Nick) Noonan</b>", "
+      $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Nicholas (Nick) Noonan</b>", "
         <pre>
         Experienced Commercial Manager with a demonstrated history of working in
         the construction industry. Skilled in Value Engineering, Project & Cost Management,
@@ -64,7 +64,7 @@
         Nelgara@outlook.com
         </pre>
         ");
-      $MainContentHandlerHelper->CreateNewContent("../img/defaultAccountIcon", "<b>Peter (Pete) Hooks</b>", "
+      $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Peter (Pete) Hooks</b>", "
         <pre>
         Experienced Contracts/Commercial Manager with a demonstrated history of
         working in the construction industry in both the Engineering and Building
@@ -101,7 +101,7 @@
         Fownhope-consulting@outlook.com
         </pre>
         ");
-      $MainContentHandlerHelper->CreateNewContent("../img/defaultAccountIcon", "<b>Katherine (Kate) Noonan</b>", "
+      $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Katherine (Kate) Noonan</b>", "
         <pre>
         Experienced Supply Chain Manager, qualified Bookkeeper/Accountant to Cert IV,
         and can also provide contract administration services. Kate has a demonstrated
