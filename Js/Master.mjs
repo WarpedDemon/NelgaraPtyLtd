@@ -40,6 +40,8 @@ function Initialize() {
   //Inistantiate the class.
   PageHandler = new NelgaraMaster(document);
   PageHandler.Initialize();
+  this.SetDarkMode(true)
+  this.OnClickLightSwitch()
   window.onscroll = OnScroll;
 }
 
@@ -272,9 +274,6 @@ class NelgaraMaster {
 
 
   Initialize() {
-    this.SetDarkMode(true)
-
-    this.OnClickLightSwitch()
 
     this.MenuIcon = document.getElementById("Hamburger");
     this.MenuIcon.addEventListener("click", OnClickHM, false);
