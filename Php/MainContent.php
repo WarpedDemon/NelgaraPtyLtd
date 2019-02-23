@@ -1,19 +1,16 @@
 <?php
 
 class MainContentHandler {
-  $Used = [];
-
+  private $Used = [];
   private $SaveIndex = -1;
 
   function CreateNewContent($ImageSource, $Title, $Text) {
     $this->SaveIndex += 1;
-    echo "Got here";
     if($ImageSource == "Random" ||$ImageSource == "random" ||$ImageSource == "cheese")
     {
       $imageList = ["../img/project2.png", "../img/road2.png", "../img/startup.jpg", "../img/train.png", "../img/office.jpg", "../img/bridge.png", "../img/bigminner.png", "../img/desal.png", "../img/miningtruck.png", "../img/openpit.png", "../img/room.jpg"];
- 
+
       $random = rand(0, sizeof($imageList)-1);
-      echo "here!";
       while(in_array($random, $this->Used))
       {
         $random = rand(0, sizeof($imageList)-1);
@@ -22,7 +19,6 @@ class MainContentHandler {
       array_push($this->Used, $random);
       $ImageSource = $imageList[$random];
     }
-    echo "Okay...";
     if($ImageSource == "DefaultAccount")
     {
       $ImageSource = "../img/defaultAccountIcon.jpg";
