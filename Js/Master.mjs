@@ -23,14 +23,12 @@ window.onresize = function(evt) {
     PageHandler.SetSmallMode(true);
     document.getElementById("Hamburger").style.display = "block";
     document.getElementById("Nav").style.display = "none";
-    console.log("here!");
     document.getElementById("NavDark").style.display = "none";
   } else {
     PageHandler.SetSmallMode(false);
     document.getElementById("Hamburger").style.display = "none";
     document.getElementById("Nav").style.display = "block";
     PageHandler.GetMenuElement().className = "NavClass fadeInDown animated";
-    console.log("Set Back!");
   }
 };
 
@@ -40,8 +38,8 @@ function Initialize() {
   //Inistantiate the class.
   PageHandler = new NelgaraMaster(document);
   PageHandler.Initialize();
-  this.SetDarkMode(true)
-  this.OnClickLightSwitch()
+  PageHandler.SetDarkMode(true)
+  PageHandler.OnClickLightSwitch()
   window.onscroll = OnScroll;
 }
 
