@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <meta charset="utf-8" name="Nelgara Commercial Construction Website Trading Site Nick Noonan Katherine Noonan Peter Hooks">
-    <meta name="description" content="Commercial Construction Trading Site Nelgara: E-Mail: Nelgara@outlook.com TEL: +61 (0)434 33 161">
+    <meta charset="utf-8">
+    <meta name="Description" CONTENT="Author: J.N. Author, Site Owner: Nicholas Noonan (Nelgara), Category: Commercial Construction, Length: 5 pages">
     <meta name="keywords" content="HTML,CSS,XML,JavaScript,Php">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
     <link rel="stylesheet" href="Css/Extras.css">
@@ -21,7 +21,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd </title>
+    <title> Nelgara Pty Ltd - index</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>

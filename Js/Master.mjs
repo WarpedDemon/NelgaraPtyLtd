@@ -273,6 +273,9 @@ class NelgaraMaster {
 
   Initialize() {
     this.SetDarkMode(true)
+
+    this.OnClickLightSwitch()
+
     this.MenuIcon = document.getElementById("Hamburger");
     this.MenuIcon.addEventListener("click", OnClickHM, false);
 
