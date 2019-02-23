@@ -22,11 +22,11 @@
     <title> Nelgara Pty Ltd - industries</title>
   </head>
   <body>
-    <?php include("Php/header.php"); ?>
-    <?php include("Php/banner.php");
+    <?php include("Php/Header.php"); ?>
+    <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Industries</b>");
     ?>
-    <?php include("Php/maincontent.php");
+    <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Marine</b>", "
         <pre>
         <li>Humber International Terminal;</li>

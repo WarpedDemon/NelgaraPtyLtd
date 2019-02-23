@@ -24,11 +24,11 @@
     <title> Nelgara Pty Ltd - people</title>
   </head>
   <body>
-    <?php include("Php/header.php"); ?>
-    <?php include("Php/banner.php");
+    <?php include("Php/Header.php"); ?>
+    <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>People</b>");
     ?>
-    <?php include("Php/maincontent.php");
+    <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Nicholas (Nick) Noonan</b>", "
         <pre>
         Experienced Commercial Manager with a demonstrated history of working in

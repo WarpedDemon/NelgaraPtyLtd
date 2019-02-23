@@ -24,11 +24,11 @@
     <title> Nelgara Pty Ltd - services</title>
   </head>
   <body>
-    <?php include("Php/header.php"); ?>
-    <?php include("Php/banner.php");
+    <?php include("Php/Header.php"); ?>
+    <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Services</b>");
     ?>
-    <?php include("Php/maincontent.php");
+    <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "<b>The business</b>", "
         <pre>
         We have established Nelgara Pty Ltd to provide clients with industry
