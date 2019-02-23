@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="Description" CONTENT="Author: J.N. Author, Site Owner: Nicholas Noonan (Nelgara), Category: Commercial Construction, Length: 5 pages">
-    <meta name="keywords" content="HTML,CSS,XML,JavaScript,Php">
+    <meta name="keywords" content="HTML,CSS,XML,JavaScript,Php,Nelgara,Nick,Noonan,Commercial,Construction,Services,Peter,Hooks,Katherine,James,Australian,Australia,Perth,Kallaroo">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
