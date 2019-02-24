@@ -43,7 +43,7 @@
           <h3>28 Henderson Drive,</h3>
           <h3>Kallaroo, Perth,</h3>
           <h3>WA 6025,</h3></p>
-          <h3>TEL: +61 (0)434 33 161,</h3>
+          <h3>TEL: +61 (0)434 333 161,</h3>
           <h3>E-Mail: Nelgara@outlook.com</h3>
         </pre>
         ");
