@@ -131,7 +131,7 @@
         </pre>
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Katherine (Kate) Noonan</b>", "
+      $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Katheryn (Kate) Noonan</b>", "
         <pre>
           <pre>
             Experienced Supply Chain Manager, qualified Bookkeeper/Accountant to Cert IV,
