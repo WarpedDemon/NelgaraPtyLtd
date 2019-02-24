@@ -49,10 +49,16 @@
           <pre>
             We provide following services:
           </pre>
+        </pre>
+      ");
+
+      $MainContentHandlerHelper->CreateNewContent("random", "<b>Business and Project Risk Services</b>", "
+        <pre>
+          <pre>
+            <h2>Businesses</h2>
+          </pre>
 
           <pre>
-            <li>Business and Project Risk Services;</li>
-            <li>Businesses;</li>
             <li>Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements, minor professional Services Agreements;<br/><br/>
             <li>Pre-Contract Review of Contract Terms prior to submission of bids;</li>
             <li>Advice on Contract Negotiations;</li>
