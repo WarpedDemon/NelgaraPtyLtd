@@ -16,6 +16,8 @@
     <script src="Js/Master.mjs"></script>
     <script src="Js/jquery.min.js"></script>
     <script src="Js/wow.min.js"></script>
+    <script src="Js/jquery-ui.min.js"></script>
+
     <script type="text/javascript">
       new WOW().init();
     </script>
