@@ -104,20 +104,24 @@
         </pre>
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Improvement Services</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "<b>Improvement Services - a</b>", "
         <pre>
           <pre>
             <li>Services for projects under duress;</li>
             <li>Develop and implement business commercial management processes;</li>
           </pre>
-
-          <pre>
-            Nelgara continues to draw on its actual delivery experience integrated with
-            the latest technology solutions to provide a unique firm that delivers
-            sustainable outcomes for an ever-changing world.
-          </pre>
         </pre>
         ");
+
+        $MainContentHandlerHelper->CreateNewContent("random", "<b>Improvement Services - b</b>", "
+          <pre>
+            <pre>
+              Nelgara continues to draw on its actual delivery experience integrated with
+              the latest technology solutions to provide a unique firm that delivers
+              sustainable outcomes for an ever-changing world.
+            </pre>
+          </pre>
+          ");
     ?>
     <span style="height:50px;"> </span>
     <?php include("Php/Footer.php");
