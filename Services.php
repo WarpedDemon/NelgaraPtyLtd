@@ -112,9 +112,9 @@
           </pre>
 
           <pre>
-            <li>Nelgara continues to draw on its actual delivery experience integrated with</li>
-            <li>the latest technology solutions to provide a unique firm that delivers</li>
-            <li>sustainable outcomes for an ever-changing world.</li>
+            Nelgara continues to draw on its actual delivery experience integrated with
+            the latest technology solutions to provide a unique firm that delivers
+            sustainable outcomes for an ever-changing world.
           </pre>
         </pre>
         ");
