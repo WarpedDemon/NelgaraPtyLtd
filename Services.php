@@ -59,7 +59,8 @@
           </pre>
 
           <pre>
-            <li>Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements, minor professional Services Agreements;<br/><br/>
+            <li>Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements,
+            <li>minor professional Services Agreements;</li>
             <li>Pre-Contract Review of Contract Terms prior to submission of bids;</li>
             <li>Advice on Contract Negotiations;</li>
             <li>Project Commercial Controls health checks;</li>
