@@ -82,7 +82,7 @@
       $MainContentHandlerHelper->CreateNewContent("random", "<b>Management</b>", "
         <pre>
           <pre>
-            Project Management
+            <h2>Project Management</h2>
           </pre>
 
           <pre>
