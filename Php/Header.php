@@ -16,7 +16,7 @@ echo '
 
     <div id="HeaderDark" class="HeaderClass animated fadeInDown">
       <a id="LightSwitchDark" class="LightSwitchClass"><span class="fas fa-lightbulb"></span></a>
-      <h1 id="TitleDark" class="TitleClass"><a href="LandingPage.php" id="Title_TextDark" class="Title_TextClass"> Nelgara Pty Ltd </a></h1>
+      <h1 id="TitleDark" class="TitleClass"><a href="index.php" id="Title_TextDark" class="Title_TextClass"> Nelgara Pty Ltd </a></h1>
       <div id="Nav_ContainerDark" class="Nav_ContainerClass">
       <span id="HamburgerDark" style="color:white;" class="HamburgerClass fa fa-bars"></span>
       </div>
