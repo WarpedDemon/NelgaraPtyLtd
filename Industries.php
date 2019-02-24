@@ -37,6 +37,23 @@
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Industries</b>");
     ?>
     <?php include("Php/MainContent.php");
+
+      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Business and Project Risk Services</b>", "
+        <pre>
+          <pre>
+            We have established Nelgara Pty Ltd to provide clients with industry
+            expertise from experienced resources contracted to deliver commercial
+            aspects for businesses and projects and can provide resources to
+            supplement peak work demands in line with your technical
+            brief/requirements.
+          </pre>
+
+          <pre>
+            We provide the follwing services:
+          </pre>
+        </pre>
+        ");
+
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Marine</b>", "
         <pre>
           <li>Humber International Terminal;</li>
