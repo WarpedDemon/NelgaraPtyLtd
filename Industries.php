@@ -157,7 +157,11 @@
           <li>Fisher & Paykel Industrial Warehouse;</li>
           <li>Scarborough Surf Club;</li>
           <li>Many Projects UK based inclusive of Schools, Warehouses, Housing and Hospitals;</li>
-          <li>Others;</li>
+        </pre>
+        ");
+
+      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Others;</b>", "
+        <pre>
           <li>Multiple Projects Sandvik (Stacker Reclaimer construction);</li>
           <li>Muja Coal demolition and refurbishment (Cost Plus Contract Negotiation and agreement);</li>
           <li>ECI /Alliance Contracts include Team Savanah (MRWA), Inpex, Russell Road, Aubin Grove,</li>
