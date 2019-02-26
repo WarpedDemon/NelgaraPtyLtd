@@ -2,10 +2,18 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
+    <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
+
     <meta name="Description" CONTENT="Author: J.N. Author, Site Owner: Nicholas Noonan (Nelgara), Category: Commercial Construction, Length: 5 pages">
     <meta name="keywords" content="HTML,CSS,XML,JavaScript,Php,Nelgara,Nick,Noonan,Commercial,Construction,Services,Peter,Hooks,Katherine,James,Australian,Australia,Perth,Kallaroo">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta property="og:title" content="nelgara">
+    <meta property="og:url" content="https://nelgara.com.au">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="nelgara">
 
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
@@ -31,12 +39,12 @@
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "<b>Contact</b>", "
         <pre>
-        <h2>Executive Headquarters</h2>
-        <h3>28 Henderson Drive,</h3>
-        <h3>Kallaroo, Perth,</h3>
-        <h3>WA 6025,</h3></p>
-        <h3>TEL: +61 (0)434 33 161,</h3>
-        <h3>E-Mail: Nelgara@outlook.com</h3>
+          <h2>Executive Headquarters</h2>
+          <h3>28 Henderson Drive,</h3>
+          <h3>Kallaroo, Perth,</h3>
+          <h3>WA 6025,</h3></p>
+          <h3>TEL: +61 (0)434 333 161,</h3>
+          <h3>E-Mail: Nelgara@outlook.com</h3>
         </pre>
         ");
 
