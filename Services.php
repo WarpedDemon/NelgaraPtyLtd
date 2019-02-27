@@ -5,15 +5,15 @@
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
 
-    <meta name="Description" CONTENT="Author: J.N. Author, Site Owner: Nicholas Noonan (Nelgara), Category: Commercial Construction, Length: 5 pages">
-    <meta name="keywords" content="HTML,CSS,XML,JavaScript,Php,Nelgara,Nick,Noonan,Commercial,Construction,Services,Peter,Hooks,Katherine,James,Australian,Australia,Perth,Kallaroo">
+    <meta name="description" content="Author: J.N. Author, Site Owner: Nicholas Noonan (Nelgara), Category: Commercial Construction, Length: 5 pages">
+    <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta property="og:title" content="nelgara">
-    <meta property="og:url" content="https://nelgara.com.au">
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="nelgara">
+    <meta property="title" content="nelgara pty ltd services construction australia commericial perth kallaroo nick noonan">
+    <meta property="url" content="https://nelgara.com.au">
+    <meta property="type" content="website">
+    <meta property="site_name" content="nelgara">
 
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
