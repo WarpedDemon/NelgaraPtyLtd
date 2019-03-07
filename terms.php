@@ -364,7 +364,7 @@
               <td>Black & White:</td>
             </tr>
             <tr>
-              <td></td>
+              <td>_</td>
               <td></td>
               <td></td>
             </tr>
@@ -379,7 +379,7 @@
               <td>•	A3 = $0.45</td>
             </tr>
             <tr>
-              <td></td>
+              <td>_</td>
               <td></td>
               <td></td>
             </tr>
@@ -409,7 +409,7 @@
               <td></td>
             </tr>
             <tr>
-              <td></td>
+              <td>_</td>
               <td></td>
               <td></td>
             </tr>
@@ -449,7 +449,7 @@
               <td></td>
             </tr>
             <tr>
-              <td></td>
+              <td>_</td>
               <td></td>
               <td></td>
             </tr>
@@ -469,7 +469,7 @@
               <td></td>
             </tr>
             <tr>
-              <td></td>
+              <td>_</td>
               <td></td>
               <td></td>
             </tr>
@@ -499,7 +499,7 @@
               <td></td>
             </tr>
             <tr>
-              <td></td>
+              <td>_</td>
               <td></td>
               <td></td>
             </tr>
@@ -509,7 +509,7 @@
               <td></td>
             </tr>
             <tr>
-              <td></td>
+              <td>_</td>
               <td></td>
               <td></td>
             </tr>
