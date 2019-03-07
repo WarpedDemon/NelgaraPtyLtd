@@ -388,8 +388,8 @@
 
                       • Work undertaken on an hourly     $175/Hr
                       basis
-      </pre>
-      ");
+        </pre>
+        ");
     ?>
 
     <span style="height:50px;"> </span>
