@@ -347,47 +347,23 @@
 
       $MainContentHandlerHelper->CreateNewContent("random", "<b>Schedule of Disbursements (Excluding GST) </b>", "
         <pre>
-          Item No. 	Description 	                      Rate
-
-          1 	      Payments to Third Parties 	        Invoice Cost + 10%
-
-          2 	      Photocopying (Per Page) 	          Black & White:
-                                                             •	A4 = $0.20
-                                                             •	A3 = $0.45
-
-                                                        Colour:
-                                                             • A4 = $1.70
-                                                             •	A3 = $2.90
-
-          3 	      Recovery of Documents from Storage  $150 Per Recovery
-
-          4 	      Air Travel:
-
-                      • 	Business Class for flights
-                      greater than 7 hours duration.
-                      Otherwise all staff travel economy
-                      class on flights within
-                      Australia and Business Class on
-                      international flights unless
-                      otherwise agreed with the client
-
-          5 	      Vehicular Travel:
-
-                      • Use of personal vehicles is      $0.77 per km
-                      charged per km.
-
-          6 	      Rates for Consultants:
-
-                      •	Consultant (Perth Based) – Nick  $TBA/Day
-                      Noonan
-
-                      •	Consultant (Perth Based) – Peter $TBA/Day
-                      Hooks
-
-          7 	      Other Fees:
-
-                      • Work undertaken on an hourly     $175/Hr
-                      basis
+          <table>
+            <tr>
+              <td>Row 1, Column 1</td>
+              <td>Row 1, Column 2</td>
+              <td>Row 1, Column 3</td>
+            </tr>
+            <tr>
+              <td>Row 2, Column 1</td>
+              <td>Row 2, Column 2</td>
+              <td>Row 2, Column 3</td>
+            </tr>
+            <tr>
+              <td>Row 3, Column 1</td>
+              <td>Row 3, Column 2</td>
+              <td>Row 3, Column 3</td>
+            </tr>
+          </table>
          </pre>
          ");
     ?>
