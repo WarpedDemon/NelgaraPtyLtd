@@ -36,7 +36,7 @@
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Terms and Conditions</b>");
     ?>
     <?php include("Php/MainContent.php");
-        $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement - A</b>", "
+        $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
           <pre>
             1.	Nelgara Pty Ltd (Nelgara) will provide to the
             client the services outlined in the accompanying
@@ -344,6 +344,52 @@
             of the courts in WA.
           </pre>
           ");
+
+      $MainContentHandlerHelper->CreateNewContent("random", "<b>Schedule of Disbursements (Excluding GST) </b>", "
+        <pre>
+          Item No. 	Description 	                      Rate
+
+          1 	      Payments to Third Parties 	        Invoice Cost + 10%
+
+          2 	      Photocopying (Per Page) 	          Black & White:
+                                                             •	A4 = $0.20
+                                                             •	A3 = $0.45
+
+                                                        Colour:
+                                                             • A4 = $1.70
+                                                             •	A3 = $2.90
+
+          3 	      Recovery of Documents from Storage  $150 Per Recovery
+
+          4 	      Air Travel:
+
+                      • 	Business Class for flights
+                      greater than 7 hours duration.
+                      Otherwise all staff travel economy
+                      class on flights within
+                      Australia and Business Class on
+                      international flights unless
+                      otherwise agreed with the client
+
+          5 	      Vehicular Travel:
+
+                      • Use of personal vehicles is      $0.77 per km
+                      charged per km.
+
+          6 	      Rates for Consultants:
+
+                      •	Consultant (Perth Based) – Nick  $TBA/Day
+                      Noonan
+
+                      •	Consultant (Perth Based) – Peter $TBA/Day
+                      Hooks
+
+          7 	      Other Fees:
+
+                      • Work undertaken on an hourly     $175/Hr
+                      basis
+        </pre>
+        ");
     ?>
 
     <span style="height:50px;"> </span>
