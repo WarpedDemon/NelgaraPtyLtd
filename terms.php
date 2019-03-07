@@ -354,9 +354,19 @@
               <td>Rate</td>
             </tr>
             <tr>
+              <td>_</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
               <td>1</td>
               <td>Payments to Third Parties</td>
               <td>Invoice Cost + 10%</td>
+            </tr>
+            <tr>
+              <td>_</td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
               <td>2</td>
@@ -399,9 +409,19 @@
               <td>•	A3 = $2.90</td>
             </tr>
             <tr>
+              <td>_</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
               <td>3</td>
               <td>Recovery of Documents from Storage</td>
               <td>$150 Per Recovery</td>
+            </tr>
+            <tr>
+              <td>_</td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
               <td>4</td>
@@ -459,6 +479,11 @@
               <td></td>
             </tr>
             <tr>
+              <td>_</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
               <td></td>
               <td>• Use of personal vehicles is</td>
               <td>$0.77 per km</td>
@@ -476,6 +501,11 @@
             <tr>
               <td>6</td>
               <td>Rates for Consultants:</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>_</td>
+              <td></td>
               <td></td>
             </tr>
             <tr>
