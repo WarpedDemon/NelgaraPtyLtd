@@ -364,9 +364,9 @@
               <td>Black & White:</td>
             </tr>
             <tr>
-              <td>3</td>
-              <td>Photocopying (Per Page)</td>
-              <td>Black & White:</td>
+              <td></td>
+              <td></td>
+              <td></td>
             </tr>
             <tr>
               <td></td>
