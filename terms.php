@@ -354,7 +354,7 @@
               <td>Rate</td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -364,7 +364,7 @@
               <td>Invoice Cost + 10%</td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -374,7 +374,7 @@
               <td>Black & White:</td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -389,7 +389,7 @@
               <td>•	A3 = $0.45</td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -409,7 +409,7 @@
               <td>•	A3 = $2.90</td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -419,7 +419,7 @@
               <td>$150 Per Recovery</td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -429,7 +429,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -469,7 +469,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -479,7 +479,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -494,7 +494,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -504,7 +504,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -529,7 +529,7 @@
               <td></td
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
@@ -539,7 +539,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>_</td>
+              <td>|</td>
               <td></td>
               <td></td>
             </tr>
