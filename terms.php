@@ -349,19 +349,179 @@
         <pre>
           <table>
             <tr>
-              <td>Row 1, Column 1</td>
-              <td>Row 1, Column 2</td>
-              <td>Row 1, Column 3</td>
+              <td>Item No.</td>
+              <td>Description</td>
+              <td>Rate</td>
             </tr>
             <tr>
-              <td>Row 2, Column 1</td>
-              <td>Row 2, Column 2</td>
-              <td>Row 2, Column 3</td>
+              <td>1</td>
+              <td>Payments to Third Parties</td>
+              <td>Invoice Cost + 10%</td>
             </tr>
             <tr>
-              <td>Row 3, Column 1</td>
-              <td>Row 3, Column 2</td>
-              <td>Row 3, Column 3</td>
+              <td>2</td>
+              <td>Photocopying (Per Page)</td>
+              <td>Black & White:</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Photocopying (Per Page)</td>
+              <td>Black & White:</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>•	A4 = $0.20</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>•	A3 = $0.45</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>Colour</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>• A4 = $1.70</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td>•	A3 = $2.90</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Recovery of Documents from Storage</td>
+              <td>$150 Per Recovery</td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td>Air Travel:</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>• 	Business Class for flights:</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>greater than 7 hours duration.</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Otherwise all staff travel economy</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>class on flights within</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Australia and Business Class on</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>international flights unless</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>otherwise agreed with the client</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td>Vehicular Travel:</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>• Use of personal vehicles is</td>
+              <td>$0.77 per km</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>charged per km.</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>6</td>
+              <td>Rates for Consultants:</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>  •	Consultant (Perth Based) – Nick</td>
+              <td>$TBA/Day</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Noonan</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>•	Consultant (Perth Based) – Peter</td>
+              <td>$TBA/Day</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Hooks</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>7</td>
+              <td>Other Fees:</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>• Work undertaken on an hourly</td>
+              <td>$175/Hr</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>basis</td>
+              <td></td>
             </tr>
           </table>
          </pre>
