@@ -36,6 +36,7 @@
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Terms and Conditions</b>");
     ?>
     <div style="margin-left:25%;margin-right:25%;">
+      <p/><br/><p/>
       1.	Nelgara Pty Ltd (Nelgara) will provide to the
       client the services outlined in the accompanying
       correspondence and such other services as may be
@@ -342,7 +343,6 @@
       of the courts in WA.
     </div>
 
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Schedule of Disbursements (Excluding GST) </b>", "
         <pre>
           <table>
             <tr>
@@ -351,7 +351,7 @@
               <td>Rate</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -361,7 +361,7 @@
               <td>Invoice Cost + 10%</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -371,7 +371,7 @@
               <td>Black & White:</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -386,7 +386,7 @@
               <td>•	A3 = $0.45</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -406,7 +406,7 @@
               <td>•	A3 = $2.90</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -416,7 +416,7 @@
               <td>$150 Per Recovery</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -426,7 +426,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -466,7 +466,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -476,7 +476,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -491,7 +491,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -501,7 +501,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -526,7 +526,7 @@
               <td></td
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -536,7 +536,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
