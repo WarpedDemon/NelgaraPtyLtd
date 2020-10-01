@@ -46,36 +46,64 @@
             Terms and Conditions of Engagement as the services)
             on the terms set out in these Terms and Conditions
             of Engagement.
+          </pre>
+          ");
 
+        $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+          <pre>
             2.	Nelgara will provide the services in a timely
             manner and with reasonable skill, care and diligence.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             3.	The client will provide Nelgara with all necessary
             briefings, approvals and consents prior to commencing
             the commission to enable Nelgara to provide the services.
             Briefings will include the provision to Nelgara of all
             relevant drawings and other documents and access the client's
             systems and networks.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             4.	The client will allow Nelgara a reasonable time to provide
             the services.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             5.	The client will pay Nelgara the fees set out in the
             accompanying correspondence and all disbursements reasonably
             incurred by Nelgara in providing the services on the terms
             set out in these Conditions. Disbursements will be charged
             in accordance with the schedule of disbursements below.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             6.	The Daily rates of Nelgara stated in the accompanying
             correspondence are subject to escalation. Nelgara reviews
             and adjusts staff salaries to reflect market rates and
             adjusts charge out rates accordingly.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             7.	Where a Nelgara staff/contractor is promoted to a
             higher position the client agrees to pay the higher rate
             for that individual or a Nelgara staff/contractor of
             similar position to the original commission will be allocated.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             8.	Where the client and Nelgara have agreed to perform
             professional services and be remunerated for these services
             under a daily rate arrangement, it is understood by the
@@ -85,16 +113,28 @@
             hours over and above eight (8) hours per day shall be
             payable by the client at the agreed hourly rates pro
             rata the daily rate.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             9.	Agreed rates referred herein mean the hourly rates
             and/or daily rates stated in the accompanying correspondence
             or as otherwise agreed in writing between Nelgara and the client.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             10.	Nelgara will invoice the client every 14 days by tax
             invoice and the client will pay the tax invoice within 14 days
             of receipt. Interest will be charged on overdue invoiced amounts
             at the current WA Supreme Court interest rate.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             11.	The fees in the accompanying correspondence (unless otherwise noted)
             exclude GST. Nelgara fees will attract GST (if confirmed by Nelgara).
             All GST amounts for which Nelgara is liable in respect of the
@@ -102,25 +142,45 @@
             invoices and will be payable by the client in the same manner and
             at the same time as other amounts payable in accordance with terms
             of these Conditions.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             12.	Where the client is required to reimburse Nelgara for an amount
             Nelgara pays to a third party (e.g. sub-consultants), the amount
             payable by the client (excluding GST) will be subject to an administration
             fee. The third-party cost and administration fee will attract GST.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             13.	Where Nelgara provides a fee estimate, Nelgara does not warrant
             that the services will be provided for the amount of the estimate.
             The actual fee may be less or more than the estimate.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             14.	Where a fixed fee is given, it is based on the scope of work,
             the services to be provided and the timing of the provision of those
             services set out in Nelgara's offer.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             15.	Any variation to the scope of work, the services to be provided
             or the timing of the provision of services required by the client or
             caused by the client will result in a variation to the fee payable
             by the client to Nelgara.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             16.	Any variation to the services to be provided by Nelgara to the
             client will be charged, subject to the terms of these Conditions,
             as to the time charges at the Daily / hourly rates stated in the
@@ -129,7 +189,11 @@
             rates, the ACEA. scale of hourly rates will apply. Disbursements
             will be charged for variations in accordance with the schedule of
             disbursements below.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             17.	The liability of Nelgara to the client in respect of the
             project for loss or damage caused to the client by Nelgara will
             be limited to the cost of rectification of the loss or damage or
@@ -141,27 +205,47 @@
             or damage, the liability of Nelgara to the client in respect of
             that loss or damage will be limited to the extent of the loss or
             damage caused by Nelgara and as set out above.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             18.	The client will indemnify Nelgara against all liabilities,
             costs and expenses which Nelgara incurs
             as a result of any breach by the client of the terms
             of these Conditions.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             19.	Copyright in all documents and electronic material produced
             by Nelgara in connection with the services remains the property
             of Nelgara.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             20.	Subject to Clause 21 of these Conditions, the client alone
             will have a license to use all the documents and material referred
             to in Clause 19 of these Conditions, for the purpose of completing
             the project.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             21.	If the client is in breach of any obligation to make a payment
             to Nelgara, then Nelgara may revoke the license referred to in
             Clause 20 of these Conditions and the client must immediately
             return to Nelgara all the documents and material referred to in
             Clause 19 of these Conditions.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             22.	Subject to Clause 23 of these Conditions, if any dispute
             arises between the client and Nelgara, the party claiming the
             existence of a dispute must set out in writing the issues and
@@ -177,7 +261,11 @@
 
             23.	Nothing in these Conditions prevents Nelgara from instituting
             legal action at any time to recover monies owed to it by the client.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             24.	Subject to Clause 26 of these Conditions, the client may
             terminate its obligations under these
 
@@ -190,7 +278,11 @@
 
               b.	Upon the expiration of 60 days written notice from the
               client to Nelgara of its intention to terminate those obligations.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             25.	Subject to Clause 26 of these Conditions, Nelgara may suspend
             or terminate its obligations under these Conditions and the accompanying
             correspondence:
@@ -208,10 +300,19 @@
 
               b.	upon the expiration of 60 days written notice from Nelgara
               to the client of its intention to terminate those obligations.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             26.	Termination under either Clause 24 or 25 of these Conditions
             of obligations under these Conditions and the accompanying
             correspondence or suspension of such obligations under Clause
+          </pre>
+          ");
+
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             25 of these Conditions will not affect the rights and obligations
             of the parties existing at the time of the termination or suspension.
             Neither party may assign, transfer or sublet any obligation under
@@ -220,7 +321,11 @@
             contrary, no assignment, transfer or subletting will release
             the assignor from any obligation under these Conditions or the
             accompanying correspondence.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             27.	The client must not directly or indirectly employ Nelgara
             staff or contractors for a period of 12 months after the
             expiration of that agreement. If the client breaches this clause,
@@ -230,14 +335,22 @@
             preceding the expiration of that agreement or 6 months full time
             fee at the staff member's current billable rate, whichever is the
             higher.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             28.	Where Nelgara staff or contractors are required to work in a
             client's office or on a site owned or managed by the client or
             its agent or contractor, the client will be responsible for
             providing safe working conditions for Nelgara staff/contractors
             and for inducting Nelgara staff/contractors on the site into the
             client's WHS System.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             29.	Where the services include contract administration the following
             conditions apply:
               a.	Nelgara is authorised to act as agent of the client to carry
@@ -272,7 +385,11 @@
               methods, techniques, sequences, procedures and use of equipment,
               whether approved by Nelgara or not, which are employed by the
               contractor or others in executing any phases of the project.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             30.	Where the services include the secondment of Nelgara staff
             or contractors, then the client will assume responsibility for
             those personnel, and its personnel, and it’s agreed that any
@@ -280,21 +397,37 @@
             a statement or document of Nelgara and that the client will pay
             Nelgara such amount as is agreed between them in relation to the
             secondee.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             31.	Where Nelgara staff/contractors are engaged on the project for
             longer than 6 months, Nelgara reserves the right to reassign those
             individuals to other projects.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             32.	If any terms of these Conditions or the accompanying
             correspondence are held to be invalid or unlawful by a court
             having jurisdiction, that term will be severed from the remaining
             terms, which will continue to be valid to the fullest extent
             of the law.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             33.	Nelgara may sub-contract the provision of all or part of the
             services provided the client consents to that. The client must not
             unreasonably withhold its consent.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             34.	Nelgara and the client will each keep confidential information
             received by them from the other which is confidential. Information
             will be confidential unless:
@@ -310,34 +443,58 @@
               c.	It is information that the recipient is required to
               disclose by any applicable law or order of any judicial or
               regulatory body.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             35.	Nelgara will immediately notify the client in the event
             that Nelgara believes that it may have a conflict of interest.
             The matter will then by resolved by discussion between the parties
             or, failing resolution, by Nelgara ceasing to provide the services
             to the client in relation to the project in question.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             36.	It is agreed by the client that Nelgara shall have the option
             to resolve a potential conflict of interest by use of an information
             barrier, whereby different clients are serviced by different
             Directors and staff, provided that all Directors and staff
             involved with each client sign an 'Information Barrier Protocol'.
             A copy of this document is available on request.
+          </pre>
+          ");
 
+          $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+            <pre>
             37.	The failure at any time of a party to the agreement arising
             from these Conditions and the accompanying correspondence to
             insist on performance of any provision of either of those documents
             is not a waiver of its right at any time to insist on performance of
             that or any other provision of those documents.
+          </pre>
+          ");
 
+        $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+          <pre>
             38.	These Conditions are to prevail in the event of any
             ambiguity or discrepancy between them and the accompanying
             correspondence.
+          </pre>
+          ");
 
+        $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+          <pre>
             39.	Notice in writing may be given by personal delivery,
             fax, registered mail or the like or by prepaid post.
             Notice may not be given by email.
+          </pre>
+          ");
 
+        $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
+          <pre>
             40.	The agreement arising from these Conditions and the
             accompanying correspondence is governed by the laws of the
             State of WA and the parties agree to submit to the jurisdiction
@@ -354,7 +511,7 @@
               <td>Rate</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -364,7 +521,7 @@
               <td>Invoice Cost + 10%</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -374,7 +531,7 @@
               <td>Black & White:</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -409,7 +566,7 @@
               <td>•	A3 = $2.90</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -419,7 +576,7 @@
               <td>$150 Per Recovery</td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -429,7 +586,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -469,7 +626,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -479,7 +636,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -494,7 +651,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -504,7 +661,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -529,7 +686,7 @@
               <td></td
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
@@ -539,7 +696,7 @@
               <td></td>
             </tr>
             <tr>
-              <td>|</td>
+              <td></td>
               <td></td>
               <td></td>
             </tr>
