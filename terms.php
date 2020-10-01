@@ -35,7 +35,7 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Terms and Conditions</b>");
     ?>
-    <div>
+    <div style="margin-left:25%;margin-right:25%;">
       1.	Nelgara Pty Ltd (Nelgara) will provide to the
       client the services outlined in the accompanying
       correspondence and such other services as may be
