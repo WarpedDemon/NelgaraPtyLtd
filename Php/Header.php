@@ -1,7 +1,6 @@
 <?php
 echo '
-    <div id="Header" class="animated fadeInDown HeaderClass" style="display:none;">
-      <a id="LightSwitch" class="LightSwitchClass"><span class="fas fa-lightbulb"></span></a>
+    <div id="Header" class="animated fadeInDown HeaderClass">
       <h1 id="Title" class="TitleClass"><a href="index.php" id="Title_Text" class="Title_TextClass"> Nelgara Pty Ltd </a></h1>
       <div id="Nav_Container" class="Nav_ContainerClass">
       <span id="Hamburger" style="color:white;" class="HamburgerClass fa fa-bars"></span>
