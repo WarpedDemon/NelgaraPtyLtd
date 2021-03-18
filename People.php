@@ -28,7 +28,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - Team</title>
+    <title> Nelgara Pty Ltd - People</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
@@ -39,8 +39,6 @@
       $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Nicholas (Nick) Noonan</b>", "
         <pre>
           <pre>
-            <a id="nick-noonan"></a>
-
             Experienced Commercial Manager with a demonstrated history of working in
             the construction industry. Skilled in Value Engineering, Project & Cost Management,
             Procurement, Contracts, and Construction Law. A chartered professional with a
@@ -84,8 +82,6 @@
         $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Kathryn (Kate) Noonan</b>", "
           <pre>
             <pre>
-              <a id="kate-noonan"></a>
-
               Experienced Supply Chain Manager, qualified Bookkeeper/Accountant to Cert IV,
               and can also provide contract administration services. Kate has a demonstrated
               history of working in the manufacturing industry and providing professional
@@ -119,7 +115,6 @@
       $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Peter (Pete) Hooks</b>", "
         <pre>
           <pre>
-            <a id="peter-hooks"></a>
             Experienced Contracts/Commercial Manager with a demonstrated history of
             working in the construction industry in both the Engineering and Building
             disciplines. Skilled in working with clients to deliver successful outcomes
@@ -171,7 +166,6 @@
         $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Paul Brown</b>", "
           <pre>
             <pre>
-              <a id="paul-brown"></a>
               Paul is a seasoned Civil Engineer and specialist Project Engineering Manager.
               He has 30+ years of experience in delivering projects, engineering management
               and designs for the resources, infrastructure and construction sectors.
@@ -191,12 +185,10 @@
 
             <pre>
               •	Leading Design and Delivery Engineering for:
-                <li>
-                  <i>Civils (geotechnical, roads, bulk earthworks, hydrology/hydraulics/drainage)</i>
-                  <i>Railways (light rail, passenger, freight, heavy haul, electrified and non-electrified)</i>
-                  <i>Structures (buildings and bridge structures)</i>
-                  <i>Subdivisions (services, utilities, housing construction and access)</i>
-                </li>
+                  Civils (geotechnical, roads, bulk earthworks, hydrology/hydraulics/drainage)
+                  Railways (light rail, passenger, freight, heavy haul, electrified and non-electrified)
+                  Structures (buildings and bridge structures)
+                  Subdivisions (services, utilities, housing construction and access)
             </pre>
 
             <pre>
@@ -237,8 +229,6 @@
           $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Jason Winter</b>", "
             <pre>
               <pre>
-                <a id="jason-winter"></a>
-
                 Jason has a Degree in Construction Management and a Bachelor of
                 Commerce. He is a Senior Consultant with Nelgara working often
                 in the position of contracts manager or contracts specialist
@@ -261,17 +251,14 @@
               </pre>
 
               <pre>
-                <b>Accomplishments (In his own words) </b>
-                <li>
-                  <li>
+                Accomplishments (In his own words)
                     •	Commercial Building Project: A project assigned to myself
                       was under extreme budget pressure upon award - with a
                       margin of 0.5%. Through using strategic procurement
                       strategies I managed to procure circa $45,000,000 worth
                       of trades and raise the margin to 4.5% and created a
                       1.5% trade contingency for the project.
-                  </li>
-                  <li>
+
                     •	Major Infrastructure Project: I was tasked with the
                       procurement of a mechanical services (HVAC) package, the
                       initial Tender submissions were well in excess of target
@@ -279,8 +266,7 @@
                       with all key stakeholders to value manage the design the
                       net result was an overall saving of $10m on the initial
                       Tender pricing.
-                  </li>
-                  <li>
+
                     •	Major Resource Project: In February 2009 major flooding
                       of the MESA A in the Western Australis North West project
                       occurred. I was responsible for the contract administration
@@ -292,8 +278,6 @@
                       to ensure that Insurance claims (approximately $5million per day)
                       were paid and ensuring all commercial obligations were met
                       by the EPCM in an environment that had not been encountered before.
-                  </li>
-                </li>
               </pre>
 
               <pre>
