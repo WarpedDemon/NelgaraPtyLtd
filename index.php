@@ -5,12 +5,13 @@
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
 
-    <meta name="description" content="Author: J.N. Author, Site Owner: Nicholas Noonan (Nelgara), Category: Commercial Construction, Length: 5 pages">
+    <meta property="title" content="Commericial Construction Services | Nelgara Pty Ltd">
+    <meta name="description" content="Nelgara Pty Ltd is an Australian commercial management consulting firm
+      that leverages its significant industry experience to develop and apply
+      best practice solutions">
     <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta property="title" content="nelgara pty ltd index construction services australia commericial perth kallaroo nick noonan">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
     <meta property="site_name" content="nelgara">
@@ -29,7 +30,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - index</title>
+    <title> Nelgara Pty Ltd - Commercial Construction Services</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
