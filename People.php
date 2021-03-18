@@ -5,15 +5,14 @@
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
 
-    <meta name="description" content="Author: J.N. Author, Site Owner: Nicholas Noonan (Nelgara), Category: Commercial Construction, Length: 5 pages">
+    <meta property="title" content="Nelgara Pty Ltd | Team">
+    <meta name="description" content="Nelgara Pty Ltd is Australia's most trusted commercial services provider. ">
     <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta property="title" content="nelgara pty ltd people contacts construction services australia commericial perth kallaroo nick noonan">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
-    <meta property="site_name" content="nelgara">
+    <meta property="site_name" content="Nelgara Pty Ltd">
 
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
@@ -29,7 +28,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - people</title>
+    <title> Nelgara Pty Ltd - Team</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
@@ -40,6 +39,8 @@
       $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Nicholas (Nick) Noonan</b>", "
         <pre>
           <pre>
+            <a id="nick-noonan"></a>
+
             Experienced Commercial Manager with a demonstrated history of working in
             the construction industry. Skilled in Value Engineering, Project & Cost Management,
             Procurement, Contracts, and Construction Law. A chartered professional with a
@@ -74,15 +75,51 @@
 
           <pre>
             Nick Noonan
-            T +61 (0)434 333 161
+            T +61 (08) 434 333 161
             Nelgara@outlook.com
           </pre>
         </pre>
         ");
 
+        $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Kathryn (Kate) Noonan</b>", "
+          <pre>
+            <pre>
+              <a id="kate-noonan"></a>
+
+              Experienced Supply Chain Manager, qualified Bookkeeper/Accountant to Cert IV,
+              and can also provide contract administration services. Kate has a demonstrated
+              history of working in the manufacturing industry and providing professional
+              services across multiple disciplines. Skilled in working with clients to deliver
+              ‘just in time’ supply chain management, Kate offers accounts administrative services
+              supported by her Australian book keeping/accounts qualifications. A professional with
+              a Bachelor Arts (BA Hons) in Business Studies, a Higher National Diploma in Business & Finance (HND)
+              and Cert IV in Bookkeeping and Cert IV in Accounting.
+            </pre>
+
+            <pre>
+              Kate’s depth of experience over the past 30 years as a professional has led
+              to success working within businesses with turnovers in excess +$50M per annum.
+              Over the past thirty years Kate has provided business management support to many
+              leadership teams. Kate is self-motivated, possess excellent communications skills
+              and can work within any team to produce high quality outcomes.
+            </pre>
+
+            <pre>
+              Please Contact;
+            </pre>
+
+            <pre>
+              Kate Noonan
+              T +61 (08) 452 345 553
+              Nelgara@outlook.com
+            </pre>
+          </pre>
+          ");
+
       $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Peter (Pete) Hooks</b>", "
         <pre>
           <pre>
+            <a id="peter-hooks"></a>
             Experienced Contracts/Commercial Manager with a demonstrated history of
             working in the construction industry in both the Engineering and Building
             disciplines. Skilled in working with clients to deliver successful outcomes
@@ -125,44 +162,151 @@
 
           <pre>
             Peter Hooks
-            T +61 (0)417 739 054
-            Fownhope-consulting@outlook.com
+            T +61 (08) 417 739 054
+            peter.nelgara@outlook.com
           </pre>
         </pre>
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Kathryn (Kate) Noonan</b>", "
-        <pre>
+        $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Paul Brown</b>", "
           <pre>
-            Experienced Supply Chain Manager, qualified Bookkeeper/Accountant to Cert IV,
-            and can also provide contract administration services. Kate has a demonstrated
-            history of working in the manufacturing industry and providing professional
-            services across multiple disciplines. Skilled in working with clients to deliver
-            ‘just in time’ supply chain management, Kate offers accounts administrative services
-            supported by her Australian book keeping/accounts qualifications. A professional with
-            a Bachelor Arts (BA Hons) in Business Studies, a Higher National Diploma in Business & Finance (HND)
-            and Cert IV in Bookkeeping and Cert IV in Accounting.
-          </pre>
+            <pre>
+              <a id="paul-brown"></a>
+              Paul is a seasoned Civil Engineer and specialist Project Engineering Manager.
+              He has 30+ years of experience in delivering projects, engineering management
+              and designs for the resources, infrastructure and construction sectors.
+              He has participated through all aspects of major project life cycles and his
+              specific areas of expertise include:
+            </pre>
 
-          <pre>
-            Kate’s depth of experience over the past 30 years as a professional has led
-            to success working within businesses with turnovers in excess +$50M per annum.
-            Over the past thirty years Kate has provided business management support to many
-            leadership teams. Kate is self-motivated, possess excellent communications skills
-            and can work within any team to produce high quality outcomes.
-          </pre>
+            <pre>
+              •	Engineering Management, Design Management, Independent Verification,
+                Engineering Verification and Validation, Commissioning and Handover
+            </pre>
 
-          <pre>
-            Please Contact;
-          </pre>
+            <pre>
+              •	Engineering Assurance – Systems Engineering, Requirements Management, Safety
+              Assurance, Reliability/Availability and Maintainability (RAM) – EN50126/7/8/9
+            </pre>
 
-          <pre>
-            Kate Noonan
-            T +61 (0)452 345 553
-            Nelgara@outlook.com
+            <pre>
+              •	Leading Design and Delivery Engineering for:
+                <li>
+                  <i>Civils (geotechnical, roads, bulk earthworks, hydrology/hydraulics/drainage)</i>
+                  <i>Railways (light rail, passenger, freight, heavy haul, electrified and non-electrified)</i>
+                  <i>Structures (buildings and bridge structures)</i>
+                  <i>Subdivisions (services, utilities, housing construction and access)</i>
+                </li>
+            </pre>
+
+            <pre>
+              •	Project, Construction and Commissioning Management and Close out Assurance
+            </pre>
+
+            <pre>
+              •	Developing strategic project delivery pathways, sequencing and logic
+            </pre>
+
+            <pre>
+              With a proven track record, Paul has recently provided leadership,
+              engineering and project management, governance, engineering assurance
+              (conventional and systems based) for several significant projects in
+              Western Australia and Queensland (within both private and public sectors).
+              He is comfortable leading and coordinating multi-disciplinary owners,
+              design and delivery teams to deliver all phases of engineering,
+              designs, construction, commissioning, entry into service and
+              handover for mega to mid-sized infrastructure programs of work.
+            </pre>
+
+            <pre>
+              Paul’s expertise, experience and capability ensures value add, innovation and optimised solutions.
+            </pre>
+
+            <pre>
+              Please Contact;
+            </pre>
+
+            <pre>
+              Paul Brown
+              T +61 (08) 0410 173 184
+              paulbrown.nelgara@outlook.com
+            </pre>
           </pre>
-        </pre>
-        ");
+          ");
+
+          $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Jason Winter</b>", "
+            <pre>
+              <pre>
+                <a id="jason-winter"></a>
+
+                Jason has a Degree in Construction Management and a Bachelor of
+                Commerce. He is a Senior Consultant with Nelgara working often
+                in the position of contracts manager or contracts specialist
+                for clients. He has 15 years’ experience working on construction,
+                civil, infrastructure and engineering projects. Jason has managed
+                contracts in excess of $500m on multibillion dollar resource
+                expansion projects, for major clients including Chevron, BHPBIO
+                and Rio Tinto. Jason has worked for the all major parties
+                involved in such endeavours being EPCM, the client, major
+                contractor’s and subcontractors.
+              </pre>
+
+              <pre>
+                His expertise includes tender negotiations, pre and post-award
+                contract management, assessment of claims for costs and EOT’s,
+                quantity estimating, procurement, and cost planning. Jason is a
+                strong leader and has managed a number of successful teams
+                throughout his career, and he has helped to develop the skills
+                and progress the careers of a number of his direct reports.
+              </pre>
+
+              <pre>
+                <b>Accomplishments (In his own words) </b>
+                <li>
+                  <li>
+                    •	Commercial Building Project: A project assigned to myself
+                      was under extreme budget pressure upon award - with a
+                      margin of 0.5%. Through using strategic procurement
+                      strategies I managed to procure circa $45,000,000 worth
+                      of trades and raise the margin to 4.5% and created a
+                      1.5% trade contingency for the project.
+                  </li>
+                  <li>
+                    •	Major Infrastructure Project: I was tasked with the
+                      procurement of a mechanical services (HVAC) package, the
+                      initial Tender submissions were well in excess of target
+                      budget. By developing a procurement strategy and working
+                      with all key stakeholders to value manage the design the
+                      net result was an overall saving of $10m on the initial
+                      Tender pricing.
+                  </li>
+                  <li>
+                    •	Major Resource Project: In February 2009 major flooding
+                      of the MESA A in the Western Australis North West project
+                      occurred. I was responsible for the contract administration
+                      of the project this involved managing the contractors on
+                      site to perform works on the fly. I needed to ensure
+                      that resources were sourced immediately as requested by
+                      the construction manager. I was responsible for data
+                      collation of all correspondence (incoming and outgoing)
+                      to ensure that Insurance claims (approximately $5million per day)
+                      were paid and ensuring all commercial obligations were met
+                      by the EPCM in an environment that had not been encountered before.
+                  </li>
+                </li>
+              </pre>
+
+              <pre>
+                Please Contact;
+              </pre>
+
+              <pre>
+                Jason Winter
+                T +61 (08) 434 333 161
+                Nelgara@outlook.com
+              </pre>
+            </pre>
+            ");
     ?>
     <span style="height:50px;"> </span>
     <?php include("Php/Footer.php");
