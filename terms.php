@@ -35,6 +35,7 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Terms and Conditions</b>");
     ?>
+    <a href="../Terms.pdf">Click here do download the PDF</a>
     <div style="margin-left:15%;margin-right:15%;">
       <p/><br/><p/>
       1.	Nelgara Pty Ltd (Nelgara) will provide to the
@@ -554,6 +555,8 @@
         </tr>
       </table>
     </div>
+
+    <a href="../Terms.pdf">Click here do download the PDF</a>
 
     <span style="height:450px;"> </span>
     <?php include("Php/Footer.php");
