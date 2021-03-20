@@ -292,7 +292,7 @@
             </pre>
             ");
     ?>
-    <span style="height:50px;"> </span>
+    <span style="height:450px;"> </span>
     <?php include("Php/Footer.php");
      ?>
   </body>

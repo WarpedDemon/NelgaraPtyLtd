@@ -47,10 +47,6 @@ body { background-color: 	#FFFAFA; }
   float: right;
 }
 
-#MainContent2{
-  margin-bottom: 450px;
-}
-
 .MainContentClass {
   min-width: 250px;
   position: relative;
