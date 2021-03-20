@@ -33,7 +33,7 @@ class MainContentHandler {
     }
     if($ImageSource == "JasonWinter")
     {
-      $ImageSource = "../img/jasonwinter.jpg";
+      $ImageSource = "../img/jasonwinter.png";
     }
     if($ImageSource == "PaulBrown")
     {
@@ -41,7 +41,7 @@ class MainContentHandler {
     }
     if($ImageSource == "PeterHooks")
     {
-      $ImageSource = "../img/peterhooks.jpg";
+      $ImageSource = "../img/peterhooks.png";
     }
 
     echo '
