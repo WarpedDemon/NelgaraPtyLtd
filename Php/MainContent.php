@@ -23,6 +23,26 @@ class MainContentHandler {
     {
       $ImageSource = "../img/defaultAccountIcon.jpg";
     }
+    if($ImageSource == "NickNoonan")
+    {
+      $ImageSource = "../img/nicknoonan.jpg";
+    }
+    if($ImageSource == "KateNoonan")
+    {
+      $ImageSource = "../img/defaultAccountIcon.jpg";
+    }
+    if($ImageSource == "JasonWinter")
+    {
+      $ImageSource = "../img/jasonwinter.jpg";
+    }
+    if($ImageSource == "PaulBrown")
+    {
+      $ImageSource = "../img/paulbrown.jpg";
+    }
+    if($ImageSource == "PeterHooks")
+    {
+      $ImageSource = "../img/peterhooks.jpg";
+    }
 
     echo '
         <div id="MainContent'. $this->SaveIndex .'" class="MainContentClass animated fadeInLeft wow">

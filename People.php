@@ -36,7 +36,7 @@
       $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>People</b>");
     ?>
     <?php include("Php/MainContent.php");
-      $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Nicholas (Nick) Noonan</b>", "
+      $MainContentHandlerHelper->CreateNewContent("NickNoonan", "<b>Nicholas (Nick) Noonan</b>", "
         <pre>
           <pre>
             Experienced Commercial Manager with a demonstrated history of working in
@@ -79,7 +79,7 @@
         </pre>
         ");
 
-        $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Kathryn (Kate) Noonan</b>", "
+        $MainContentHandlerHelper->CreateNewContent("KateNoonan", "<b>Kathryn (Kate) Noonan</b>", "
           <pre>
             <pre>
               Experienced Supply Chain Manager, qualified Bookkeeper/Accountant to Cert IV,
@@ -112,7 +112,7 @@
           </pre>
           ");
 
-      $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Peter (Pete) Hooks</b>", "
+      $MainContentHandlerHelper->CreateNewContent("PeterHooks", "<b>Peter (Pete) Hooks</b>", "
         <pre>
           <pre>
             Experienced Contracts/Commercial Manager with a demonstrated history of
@@ -163,7 +163,7 @@
         </pre>
         ");
 
-        $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Paul Brown</b>", "
+        $MainContentHandlerHelper->CreateNewContent("PaulBrown", "<b>Paul Brown</b>", "
           <pre>
             <pre>
               Paul is a seasoned Civil Engineer and specialist Project Engineering Manager.
@@ -226,7 +226,7 @@
           </pre>
           ");
 
-          $MainContentHandlerHelper->CreateNewContent("DefaultAccount", "<b>Jason Winter</b>", "
+          $MainContentHandlerHelper->CreateNewContent("JasonWinter", "<b>Jason Winter</b>", "
             <pre>
               <pre>
                 Jason has a Degree in Construction Management and a Bachelor of

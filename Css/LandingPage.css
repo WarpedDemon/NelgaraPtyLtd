@@ -11,7 +11,7 @@ body { background-color: 	#FFFAFA; }
 }
 .LightSwitchClass {
   transition: all 0.3s ease;
-  border-radius: 5px;
+  border-radius: 50px;
   border: 2px solid black;
   width:50px;
   height:50px;
@@ -22,13 +22,14 @@ body { background-color: 	#FFFAFA; }
 
 #Footer {
   background-color: #222222;
-  height: 50px;
+  height: 250px;
   width: 100%;
   position:fixed;
   bottom: 0;
   left:0;
   color: white;
   display: none;
+  border-top: solid black;
 }
 #ContactInfo {
   margin-top: 22px;
@@ -46,6 +47,9 @@ body { background-color: 	#FFFAFA; }
   float: right;
 }
 
+#MainContent1{
+  margin-bottom: 450px;
+}
 
 .MainContentClass {
   min-width: 250px;
