@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
-    <meta name="description" content="Author: J.N. Author, Site Owner: Nicholas Noonan (Nelgara), Category: Commercial Construction, Length: 5 pages">
+    <meta name="description" content="At Nelgara Pty Ltd we offer a wide range of commericial services in many industries.">
     <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta property="title" content="nelgara pty ltd industries construction services australia commericial perth kallaroo nick noonan">
+    <meta property="title" content="Nelgara Pty Ltd | Services">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
     <meta property="site_name" content="nelgara">
@@ -28,12 +28,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - industries</title>
+    <title> Nelgara Pty Ltd - Industries</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Industries</b>");
+      $BannerHandlerHelper->CreateNewContent("Nelgara Pty Ltd - <b>Industries</b>");
     ?>
     <?php include("Php/MainContent.php");
 
@@ -168,7 +168,7 @@
         </pre>
         ");
     ?>
-    <span style="height:450px;"> </span>
+    <div style="height:450px;"> </div>
     <?php include("Php/Footer.php");
      ?>
   </body>

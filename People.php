@@ -6,7 +6,7 @@
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
 
     <meta property="title" content="Nelgara Pty Ltd | People">
-    <meta name="description" content="Nelgara Pty Ltd is Australia's most trusted commercial services provider. ">
+    <meta name="description" content="Nelgara Pty Ltd has a great team of hard working professionals. View their successes here!">
     <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,12 +28,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - People</title>
+    <title> Nelgara Pty Ltd - Our Team</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>People</b>");
+      $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Our Team</b>");
     ?>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("NickNoonan", "<b>Nicholas (Nick) Noonan</b>", "
@@ -292,7 +292,7 @@
             </pre>
             ");
     ?>
-    <span style="height:450px;"> </span>
+    <div style="height:450px;"> </div>
     <?php include("Php/Footer.php");
      ?>
   </body>

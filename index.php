@@ -35,7 +35,7 @@
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("Commercial Construction - Services");
+      $BannerHandlerHelper->CreateNewContent("Nelgara Pty Ltd - <b>Services</b>");
     ?>
     <?php include("Php/MainContent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "<b>What We Do</b>", "
@@ -91,7 +91,7 @@
           </pre>
           ");
     ?>
-    <span style="height:450px;"> </span>
+    <div style="height:450px;"> </div>
     <?php include("Php/Footer.php");
      ?>
   </body>
