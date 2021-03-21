@@ -30,12 +30,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd | Commercial Construction Services 🏗️</title>
+    <title> Nelgara Pty Ltd | Commercial Construction 🏗️</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction Services</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction</b>");
     ?>
     <?php include("Php/MainContent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "<b>What We Do</b>", "
