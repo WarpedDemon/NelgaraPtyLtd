@@ -71,7 +71,7 @@ body { background: linear-gradient(180deg, rgba(20,20,20,1) 0%, rgba(67,67,67,1)
 }
 
 .MainContentClass img{
-  border-radius: 15%;
+  border-radius: 7%;
   display: inline-block;
   height: 30vh;
   min-height: 10vh;
