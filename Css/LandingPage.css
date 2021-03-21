@@ -125,10 +125,12 @@ body { background: linear-gradient(180deg, rgba(20,20,20,1) 0%, rgba(67,67,67,1)
 #BannerId {
   z-index: 1;
   position: absolute;
-  margin-top: 14vh;
+  margin-top: 20vh;
   margin-left: 14vw;
   color: #eeeeee;
   font-size: 3vmax;
+  background-color: black;
+  border-radius: 10px;
 }
 
 
@@ -199,6 +201,7 @@ body { background: linear-gradient(180deg, rgba(20,20,20,1) 0%, rgba(67,67,67,1)
 .NavClass a:hover {
   border-bottom: 4px solid black;
   background-color: rgba(205,205,205,1);
+  border-radius: 15px;
 }
 .NavClass a {
   transition: all 0.3s ease;
