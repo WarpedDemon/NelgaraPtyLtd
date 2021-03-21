@@ -28,12 +28,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - Our Team</title>
+    <title>Our Team</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Our Team</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>Our Team</b>");
     ?>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("NickNoonan", "<b>Nicholas (Nick) Noonan</b>", "

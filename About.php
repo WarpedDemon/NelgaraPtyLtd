@@ -33,7 +33,7 @@
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("Nelgara Pty Ltd - <b>About</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>About</b>");
     ?>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "<b>Contact</b>", "

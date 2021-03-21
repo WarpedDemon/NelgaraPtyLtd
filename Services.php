@@ -10,7 +10,7 @@
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta property="title" content="Nelgara Pty Ltd | Services>
+    <meta property="title" content="Commercial Construction Services🏗️ | Nelgara Pty Ltd>
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
     <meta property="site_name" content="nelgara">
@@ -29,12 +29,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - Services</title>
+    <title> Nelgara Pty Ltd | Commercial Construction Services🏗️</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Services</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction Services</b>");
     ?>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "<b>The business</b>", "

@@ -5,7 +5,7 @@
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
 
-    <meta property="title" content="Commericial Construction Services | Nelgara Pty Ltd">
+    <meta property="title" content="Commericial Construction Services 🏗️ | Nelgara Pty Ltd">
     <meta name="description" content="Nelgara Pty Ltd is an Australian commercial management consulting firm
       that leverages its significant industry experience to develop and apply
       best practice solutions">
@@ -30,12 +30,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - Commercial Construction Services</title>
+    <title> Nelgara Pty Ltd | Commercial Construction Services 🏗️</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("Nelgara Pty Ltd - <b>Services</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction Services</b>");
     ?>
     <?php include("Php/MainContent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "<b>What We Do</b>", "
