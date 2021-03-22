@@ -37,7 +37,7 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction</b>");
     ?>
-    <div style="height:450px;"> </div>
+    <div style="height:250px;"> </div>
     <div style="margin-top: 150px;">
     <?php include("Php/MainContent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "<b>What We Do</b>", "
