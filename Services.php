@@ -36,6 +36,7 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction Services</b>");
     ?>
+    <div style="height:450px;"> </div>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "<b>The business</b>", "
         <pre>
