@@ -77,14 +77,22 @@ function OnClickLightSwitch()
   if(active)
   {
     $('body').animate({
-      backgroundColor: "#222222",
+      background: "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);",
+      color: "white"
+    }, 500);
+    $('footer').animate({
+      background: "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);",
       color: "white"
     }, 500);
     changeBackground(active);
     active = false;
   }else{
     $('body').animate({
-      backgroundColor: "#FFFAFA",
+      background: "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);",
+      color: "black"
+    }, 500);
+    $('footer').animate({
+      background: "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);",
       color: "black"
     }, 500);
     changeBackground(active);
