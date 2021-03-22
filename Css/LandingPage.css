@@ -1,34 +1,15 @@
 * { padding: 0; margin: 0;  font-family: helvetica, sans-serif;}
 html { overflow-x: hidden;}
-body { background: linear-gradient(180deg, rgba(20,20,20,1) 0%, rgba(67,67,67,1) 34%, rgba(47,47,47,1) 65%, rgba(0,0,0,1) 100%); }
-.LightSwitchClass span {
-  margin-top: 18px;
-  margin-left: 19px;
-}
-.LightSwitchClass:hover {
-  background-color: black;
-  color: white;
-}
-.LightSwitchClass {
-  transition: all 0.3s ease;
-  border-radius: 50px;
-  border: 2px solid black;
-  width:50px;
-  height:50px;
-  float: left;
-  margin-top: 28px;
-  margin-left: 50px;
-}
+body { background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%); }
 
 #Footer {
-  background: linear-gradient(180deg, rgba(67,67,67,1) 0%, rgba(47,47,47,1) 51%);
+  background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);
   height: 250px;
   width: 100%;
-  position:fixed;
+
   bottom: 0;
   left:0;
-  color: white;
-  display: none;
+  color: white !important;
   border-top: solid black;
 }
 #ContactInfo {
@@ -96,15 +77,27 @@ body { background: linear-gradient(180deg, rgba(20,20,20,1) 0%, rgba(67,67,67,1)
   height:auto;
 }
 
+
+
 .MainContentClass p {
   max-width: 50vw;
 }
 
-#Banner {
+#videoContainer {
+  width: 100%;
   height: 45vh;
-  width: 80vw;
+}
+#videoContainer video {
+  object-fit: cover;
+  z-index: 0;
+  position: absolute;
+  top: 100px;
+}
+
+#Banner {
+
+  width: 100vw;
   min-height: 200px;
-  margin-left: 10vw;
   top: 150px;
   margin-bottom: 150px;
   border-radius: 10px;
@@ -129,102 +122,128 @@ body { background: linear-gradient(180deg, rgba(20,20,20,1) 0%, rgba(67,67,67,1)
   margin-left: 14vw;
   color: #eeeeee;
   font-size: 3vmax;
-  background-color: black;
-  border-radius: 10px;
+  padding: 15px;
+  background-color: rgba(0,0,0,0.65);
 }
 
 
-.HeaderClass {
-  border-radius: 10%!important;
-  width: 80vw;
+#Header {
+
+  width: 100vw;
   height: 100px;
   position: absolute;
   top: 0;
-  margin-left: 10vw;
   background-image: url(../img/pipes.png);
   background-repeat: repeat;
   z-index: 11;
 }
-#HeaderDark {
-  background-image: url(../img/crissXcross.png);
-  background-repeat: repeat;
-  z-index: 10;
+.HeaderDark {
+  background-image: url(../img/crissXcross.png) !important;
+  background-repeat: repeat !important;
+  z-index: 10 !important;
   color: white !important;
 
 }
-#LightSwitchDark:hover {
-  color: white;
+.LightSwitchDark:hover {
+  color: white !important;
+  background-color: black !important;
+  border-color: white !important;
+}
+
+.LightSwitchDark {
+  color: black !important;
+  background-color: white !important;
+  border-color: black !important;
+}
+#LightSwitch span {
+  margin-top: 18px;
+  margin-left: 19px;
+}
+#LightSwitch:hover {
   background-color: black;
-  border-color: white;
+  color: white;
+}
+#LightSwitch {
+  transition: all 0.3s ease;
+  border-radius: 50px;
+  border: 2px solid black;
+  width:50px;
+  height:50px;
+  float: left;
+  margin-top: 22px;
+  margin-left: 50px;
 }
 
-#LightSwitchDark {
-  color: black;
-  background-color: white;
-  border-color: black;
+.Nav_ContainerDark {
+  display: none !important;
 }
-
-#Nav_ContainerDark {
-  display: none;
-}
-#Title_TextDark {
+.Title_TextDark {
   color: white !important;
 }
-.TitleClass {
+#Title {
   color:black;
   font-size: 24px;
   text-align: center;
   display: inline-block;
   float: left;
-  margin-top: 10px;
+  margin-top: 16px;
   margin-left: 25px;
   text-decoration: none;
 }
-.Title_TextClass {
+#Title_Text {
   color:black;
   font-size: 3vmax;
   text-decoration: none;
 }
-.HamburgerClass {
+#Hamburger {
   display: none;
 }
-.Nav_ContainerClass{
+#Nav_Container{
   display: none;
 }
-.NavClass {
+.NavDark {
+  color: white !important;
+}
+#Nav {
   height: 30vmax;
   width: auto;
   display: inline-block;
   float: right;
+  margin-right: 75px;
+  margin-top: 25px;
+  color: black;
   z-index: 11;
+
 }
-.NavClass a:hover {
+#Nav a:hover {
   border-bottom: 4px solid black;
   background-color: rgba(205,205,205,1);
   border-radius: 15px;
 }
-.NavClass a {
+#Nav a {
   transition: all 0.3s ease;
   display: inline-block;
-  height: 90px;
+  height: 50px;
   background-color: rgba(255,255,255,0.75);
-  padding-left: 3vw;
-  padding-right: 3vw;
-
+  padding-left: 5vw;
+  padding-right: 5vw;
   text-decoration: none;
-  color: white;
+  color: inherit;
 }
-.NavClass a li p {
+#Nav a li p {
   text-align:center;
-  color: black;
-  padding-top: 3.5vh;
+  padding-top: 18px;
 }
-.NavClass a li {
+#Nav a li {
   display: inline-block;
   list-style: none;
 }
 
-.EndBorderRadius {
-  border-top-right-radius: 20%!important;
-  border-bottom-right-radius: 20%!important;
+.ServicesDark,
+.PeopleDark,
+.AboutDark,
+.IndustriesDark {
+  background-color: rgba(0,0,0,0.75) !important;
+  border-left: 2px solid black !important;
+  border-right: 2px solid black !important;
 }

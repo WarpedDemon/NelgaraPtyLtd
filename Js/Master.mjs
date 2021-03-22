@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", Initialize, false);
 var active = true;
 var lastSwitch = 0;
 var activeDiv = 1;
+var pageLoaded = false;
 var Active_Images = [
   0,
   0
@@ -15,6 +16,7 @@ var Image_Sources2 = [
   "../img/startup.jpg"
 ];
 window.onresize = function(evt) {
+  if (!pageLoaded) { return; }
   var dimensions = {
       height: (evt.srcElement || evt.currentTarget).innerHeight,
       width: (evt.srcElement || evt.currentTarget).innerWidth
@@ -23,7 +25,6 @@ window.onresize = function(evt) {
     PageHandler.SetSmallMode(true);
     document.getElementById("Hamburger").style.display = "block";
     document.getElementById("Nav").style.display = "none";
-    document.getElementById("NavDark").style.display = "none";
   } else {
     PageHandler.SetSmallMode(false);
     document.getElementById("Hamburger").style.display = "none";
@@ -38,37 +39,54 @@ function Initialize() {
   //Inistantiate the class.
   PageHandler = new NelgaraMaster(document);
   PageHandler.Initialize();
-  OnClickLightSwitch();
+  //OnClickLightSwitch();
   window.onscroll = OnScroll;
+  pageLoaded = true;
 }
 
 function changeBackground(active)
 {
     var header = document.getElementById("Header");
-    var headerDark = document.getElementById("HeaderDark");
+    var title = document.getElementById("Title");
+    var titleText = document.getElementById("Title_Text");
+    var lightSwitch = document.getElementById("LightSwitch");
+    var navContainer = document.getElementById("Nav_Container");
+    var hamburger = document.getElementById("Hamburger");
+    var nav = document.getElementById("Nav");
+    var services = document.getElementById("Services");
+    var industries = document.getElementById("Industries")
+    var about = document.getElementById("About");
+    var people = document.getElementById("People");
     if(active)
     {
-      PageHandler.SetDarkMode(true);
-      header.className = "HeaderClass animated fadeOut";
-      setTimeout(()=>{
-        header.style.zIndex = 10;
-        headerDark.style.zIndex = 11;
+      //Is currently white. Please switch.
+      header.className = "HeaderDark";
+      title.className = "TitleDark";
+      titleText.className = "Title_TextDark"
+      lightSwitch.className = "LightSwitcDark";
+      navContainer.className = "Nav_ContainerDark";
+      hamburger.className = "HamburgerDark";
+      nav.className = "NavDark";
+      services.className = "ServicesDark";
+      industries.className = "IndustriesDark";
+      about.className = "AboutDark";
+      people.className = "PeopleDark";
+      active = false;
 
-        header.style.display = "block";
-        header.className = "HeaderClass";
-        header.style.opacity = 1;
-      }, 500);
-    }else{
-      PageHandler.SetDarkMode(false);
-      headerDark.className = "HeaderClass animated fadeOut";
-      setTimeout(()=>{
-        header.style.zIndex = 11;
-        headerDark.style.zIndex = 10;
-
-        headerDark.style.display = "block";
-        headerDark.className = "HeaderClass";
-        headerDark.style.opacity = 1;
-      }, 500);
+    } else {
+      //Is currently black. Please switch.
+      header.className = "";
+      title.className = "";
+      titleText.className = ""
+      lightSwitch.className = "";
+      navContainer.className = "";
+      hamburger.className = "";
+      nav.className = "";
+      services.className = "";
+      industries.className = "";
+      about.className = "";
+      people.className = "";
+      active = true;
     }
 }
 
@@ -76,25 +94,15 @@ function OnClickLightSwitch()
 {
   if(active)
   {
-    $('body').animate({
-      background: "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);",
-      color: "white"
-    }, 500);
-    $('footer').animate({
-      background: "linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);",
-      color: "white"
-    }, 500);
+    document.body.style.background = "linear-gradient(222deg, rgba(0,0,0,1) 0%, rgba(51,51,51,1) 50%, rgba(17,17,17,1) 100%)";
+    document.body.style.color = "white";
+    document.getElementById("Footer").style.background = "linear-gradient(222deg, rgba(0,0,0,1) 0%, rgba(51,51,51,1) 50%, rgba(17,17,17,1) 100%)";
     changeBackground(active);
     active = false;
   }else{
-    $('body').animate({
-      background: "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);",
-      color: "black"
-    }, 500);
-    $('footer').animate({
-      background: "linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%);",
-      color: "black"
-    }, 500);
+    document.body.style.background = "linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%)";
+    document.body.style.color = "black";
+    document.getElementById("Footer").style.background = "linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%)";
     changeBackground(active);
     active = true;
   }
@@ -156,45 +164,6 @@ function OnClickHM()
   PageHandler.SetGate(true);
 }
 
-function Change() {
-  var ImageElemOne = document.getElementById("ImgOne");
-  var ImageElemTwo = document.getElementById("ImgTwo");
-
-  if(activeDiv == 1) {
-    //Active div is 1
-    ImageElemOne.className = "BackgroundImage animated fadeOutLeft";
-    setTimeout(()=>{
-      //1 second delay then...
-      ImageElemOne.style.zIndex = -1;
-      ImageElemOne.className = "BackgroundImage";
-      ImageElemTwo.style.zIndex = 0;
-      //Switch Image Element one image...
-      Active_Images[0] += 1;
-      //If outside image array bounds reset to 0.
-      if(Active_Images[0] > Image_Sources.length-1){Active_Images[0] = 0;}
-      ImageElemOne.src = Image_Sources[Active_Images[0]];
-    }, 1000);
-    activeDiv = 2;
-
-  } else {
-    //Active Div is 2
-    ImageElemTwo.className = "BackgroundImage animated fadeOutRight";
-    setTimeout(()=>{
-      ImageElemTwo.className = "BackgroundImage";
-      ImageElemTwo.style.zIndex = -1;
-      ImageElemOne.style.zIndex = 0;
-
-      //Switch Image Element one image...
-      Active_Images[1] += 1;
-      //If outside image array bounds reset to 0.
-      if(Active_Images[1] > Image_Sources2.length-1){Active_Images[1] = 0;}
-      ImageElemTwo.src = Image_Sources2[Active_Images[1]];
-
-    }, 1000)
-
-    activeDiv = 1;
-  }
-}
 
 class NelgaraMaster {
   //Master Javascript class.
@@ -204,24 +173,11 @@ class NelgaraMaster {
     if(window.innerWidth < 1528) {
       this.SmallMode = true;
       document.getElementById("Nav").style.display = "none !important";
-      document.getElementById("NavDark").style.display = "none !important";
     } else {
-      this.SmallMode = false;
+      this.SmallMode =  false;
     }
     this.DarkMode = false;
     this.Gate = true;
-  }
-
-  InitializeBanner(arrayone, arraytwo) {
-    Image_Sources = arrayone;
-    Image_Sources2 = arraytwo;
-    document.getElementById("ImgOne").src = Image_Sources[0];
-    document.getElementById("ImgOne").style.width = "100%";
-    document.getElementById("ImgOne").style.height = "100%";
-    document.getElementById("ImgTwo").src = Image_Sources2[0];
-    document.getElementById("ImgTwo").style.width = "100%";
-    document.getElementById("ImgTwo").style.height = "100%";
-
   }
 
   SetGate(value) {
@@ -272,38 +228,12 @@ class NelgaraMaster {
 
 
   Initialize() {
-
     this.MenuIcon = document.getElementById("Hamburger");
     this.MenuIcon.addEventListener("click", OnClickHM, false);
 
-    this.DarkMenuIcon = document.getElementById("HamburgerDark");
-    this.DarkMenuIcon.addEventListener("click", OnClickHM, false);
 
     this.LightSwitch = document.getElementById("LightSwitch");
     this.LightSwitch.addEventListener("click", OnClickLightSwitch, false);
-
-    this.DarkLightSwitch = document.getElementById("LightSwitchDark");
-    this.DarkLightSwitch.addEventListener("click", OnClickLightSwitch, false);
-    var tick = 0;
-    var runTime = 0;
-
-      //Test Stuff for animating carousel...
-    function animate() {
-      tick += 1;
-      if(tick%60 == 0) {
-        runTime += 1;
-      }
-
-      if(runTime - lastSwitch >= 10) {
-        Change();
-        lastSwitch = runTime;
-      }
-
-      CheckMenuState();
-
-      requestAnimationFrame(animate);
-    }
-    animate();
   }
 
 

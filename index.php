@@ -37,6 +37,7 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction</b>");
     ?>
+    <div style="margin-top: 150px;">
     <?php include("Php/MainContent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "<b>What We Do</b>", "
           <pre>
@@ -91,13 +92,13 @@
           </pre>
           ");
     ?>
+    </div>
     <div style="height:450px;"> </div>
-    <?php include("Php/Footer.php");
-     ?>
+    <?php include("Php/Footer.php"); ?>
   </body>
   <script type="text/javascript">
     document.addEventListener("DOMContentLoaded", function() {
-      PageHandler.InitializeBanner(["img/perthday.png"], ["img/perthnight.png"]);
+    
     }, false);
   </script>
 </html>
