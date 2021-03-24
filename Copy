@@ -1,5 +1,5 @@
 $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions of Engagement</b>", "
-    <pre>
+    
       1.	Nelgara Pty Ltd (Nelgara) will provide to the
       client the services outlined in the accompanying
       correspondence and such other services as may be
@@ -304,11 +304,11 @@ $MainContentHandlerHelper->CreateNewContent("random", "<b>Terms and Conditions o
       accompanying correspondence is governed by the laws of the
       State of WA and the parties agree to submit to the jurisdiction
       of the courts in WA.
-    </pre>
+    
     ");
 
 $MainContentHandlerHelper->CreateNewContent("random", "<b>Schedule of Disbursements (Excluding GST) </b>", "
-  <pre>
+  
     Item No. 	Description 	                      Rate
 
     1 	      Payments to Third Parties 	        Invoice Cost + 10%
@@ -350,5 +350,5 @@ $MainContentHandlerHelper->CreateNewContent("random", "<b>Schedule of Disburseme
 
                 • Work undertaken on an hourly     $175/Hr
                 basis
-  </pre>
+  
   ");

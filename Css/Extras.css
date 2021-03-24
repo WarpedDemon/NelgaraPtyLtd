@@ -8,7 +8,7 @@
   float: left;
   z-index: 10;
   top: 100px;
-  height: 55%;
+  height: 90%;
   width: 20vw;
 
 }
@@ -22,7 +22,7 @@
   position: absolute;
   z-index: 10;
   left: 80vw;
-  height: 55%;
+  height: 90%;
   width: 20vw;
   top: 100px;
 

@@ -4,7 +4,7 @@ class MainContentHandler {
   private $Used = [];
   private $SaveIndex = -1;
 
-  function CreateNewContent($ImageSource, $Title, $Text) {
+  function CreateNewContent($ImageSource, $FloatDirection, $Title, $Text) {
     $this->SaveIndex += 1;
     if($ImageSource == "Random" ||$ImageSource == "random" ||$ImageSource == "cheese")
     {
@@ -46,7 +46,10 @@ class MainContentHandler {
 
     echo '
         <div id="MainContent'. $this->SaveIndex .'" class="MainContentClass animated fadeInLeft wow">
-          <img id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
+        ';
+    if($FloatDirection == "LEFT") {
+      echo '
+          <img class="ContentImage" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
           <div id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
             <h1 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h1>
             <hr style="border-color: #eeeeee;"/>
@@ -57,6 +60,20 @@ class MainContentHandler {
           </div>
         </div>
         ';
+    } else {
+      echo '
+        <div style="float: left !important;" id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
+          <h1 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h1>
+          <hr style="border-color: #eeeeee;"/>
+          <br/>
+          <p id="MainContentText' . $this->SaveIndex . '" class="MainContentText">
+              ' . html_entity_decode($Text) . '
+          </p>
+        </div>
+        <img style="float: right !important;" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
+        </div>
+      ';
+    }
   }
 
 

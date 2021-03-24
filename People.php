@@ -35,19 +35,18 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Our Team</b>");
     ?>
-    <div style="height:450px;"> </div>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("NickNoonan", "<b>Nicholas (Nick) Noonan</b>", "
-        <pre>
-          <pre>
+        
+          
             Experienced Commercial Manager with a demonstrated history of working in
             the construction industry. Skilled in Value Engineering, Project & Cost Management,
             Procurement, Contracts, and Construction Law. A chartered professional with a
             Bachelor of Science (BSc) focused in Quantity Surveying and a Higher National
             Diploma in Business & Finance (HND).
-          </pre>
+          
 
-          <pre>
+          
             Nick Noonan is a determined professional who is solution focused and
             creates an environment which empowers his team to pursue complex challenges
             and achieve stretch targets. His success has been attributed to an upstanding
@@ -55,9 +54,9 @@
             management, strong and fair leadership, open and honest communication,
             adaptability to the working environment, forecasting risk and implementing
             mitigation, practical and concise problem solving.
-          </pre>
+          
 
-          <pre>
+          
             Nick’s depth of experience over the past 32 years as a qualified
             Quantity Surveyor, project and business commercial manager has led to
             success working within businesses or on projects with turnovers in excess
@@ -66,23 +65,23 @@
             and business programs. He has provided leadership and consulting
             services to Clients and project teams to create new and innovative
             ways of improving their practices and processes.
-          </pre>
+          
 
-          <pre>
+          
             Please Contact;
-          </pre>
+          
 
-          <pre>
+          
             Nick Noonan
             T +61 (08) 434 333 161
             Nelgara@outlook.com
-          </pre>
-        </pre>
+          
+        
         ");
 
         $MainContentHandlerHelper->CreateNewContent("KateNoonan", "<b>Kathryn (Kate) Noonan</b>", "
-          <pre>
-            <pre>
+          
+            
               Experienced Supply Chain Manager, qualified Bookkeeper/Accountant to Cert IV,
               and can also provide contract administration services. Kate has a demonstrated
               history of working in the manufacturing industry and providing professional
@@ -91,116 +90,116 @@
               supported by her Australian book keeping/accounts qualifications. A professional with
               a Bachelor Arts (BA Hons) in Business Studies, a Higher National Diploma in Business & Finance (HND)
               and Cert IV in Bookkeeping and Cert IV in Accounting.
-            </pre>
+            
 
-            <pre>
+            
               Kate’s depth of experience over the past 30 years as a professional has led
               to success working within businesses with turnovers in excess +$50M per annum.
               Over the past thirty years Kate has provided business management support to many
               leadership teams. Kate is self-motivated, possess excellent communications skills
               and can work within any team to produce high quality outcomes.
-            </pre>
+            
 
-            <pre>
+            
               Please Contact;
-            </pre>
+            
 
-            <pre>
+            
               Kate Noonan
               T +61 (08) 452 345 553
               Nelgara@outlook.com
-            </pre>
-          </pre>
+            
+          
           ");
 
       $MainContentHandlerHelper->CreateNewContent("PeterHooks", "<b>Peter (Pete) Hooks</b>", "
-        <pre>
-          <pre>
+        
+          
             Experienced Contracts/Commercial Manager with a demonstrated history of
             working in the construction industry in both the Engineering and Building
             disciplines. Skilled in working with clients to deliver successful outcomes
             inclusive of Project & Cost Management, Procurement, Contracts, and
             Construction Law.
-          </pre>
+          
 
-          <pre>
+          
             A professional with a Bachelor of Science (BSc Hons)
             focused in Quantity Surveying an accredited qualification by the Royal
             Institution of Chartered Surveyors (RICS).
-          </pre>
+          
 
-          <pre>
+          
             Peter Hooks has a vast experience in (but not limited to) pre-contracts
             (tenders in excess of $300m)(working with insurance brokers on tender solutions)
             (Tender Commercial Risk assessments and drafting clarification return documentation),
             contract negotiations, contract administration, managing change, cost forecasting,
             dispute resolution and procurement management.
-          </pre>
+          
 
-          <pre>
+          
             Pete’s depth of experience over the past 14 years as a qualified Quantity Surveyor,
             project and business contracts manager has led to success working within businesses
             or on projects with turnovers in excess +$75M per annum. Over the past fourteen
             years Pete has provided project and business management support to many contracts,
             projects and business programs.
-          </pre>
+          
 
-          <pre>
+          
             Pete has an exceptional understanding of contract
             and commercial management from the pre-tender phase through to project completion.
             Pete is self-motivated, possess excellent communications skills and can competently
             lead teams to produce high quality outcomes.
-          </pre>
+          
 
-          <pre>
+          
             Please Contact;
-          </pre>
+          
 
-          <pre>
+          
             Peter Hooks
             T +61 (08) 417 739 054
             peter.nelgara@outlook.com
-          </pre>
-        </pre>
+          
+        
         ");
 
         $MainContentHandlerHelper->CreateNewContent("PaulBrown", "<b>Paul Brown</b>", "
-          <pre>
-            <pre>
+          
+            
               Paul is a seasoned Civil Engineer and specialist Project Engineering Manager.
               He has 30+ years of experience in delivering projects, engineering management
               and designs for the resources, infrastructure and construction sectors.
               He has participated through all aspects of major project life cycles and his
               specific areas of expertise include:
-            </pre>
+            
 
-            <pre>
+            
               •	Engineering Management, Design Management, Independent Verification,
                 Engineering Verification and Validation, Commissioning and Handover
-            </pre>
+            
 
-            <pre>
+            
               •	Engineering Assurance – Systems Engineering, Requirements Management, Safety
               Assurance, Reliability/Availability and Maintainability (RAM) – EN50126/7/8/9
-            </pre>
+            
 
-            <pre>
+            
               •	Leading Design and Delivery Engineering for:
                   Civils (geotechnical, roads, bulk earthworks, hydrology/hydraulics/drainage)
                   Railways (light rail, passenger, freight, heavy haul, electrified and non-electrified)
                   Structures (buildings and bridge structures)
                   Subdivisions (services, utilities, housing construction and access)
-            </pre>
+            
 
-            <pre>
+            
               •	Project, Construction and Commissioning Management and Close out Assurance
-            </pre>
+            
 
-            <pre>
+            
               •	Developing strategic project delivery pathways, sequencing and logic
-            </pre>
+            
 
-            <pre>
+            
               With a proven track record, Paul has recently provided leadership,
               engineering and project management, governance, engineering assurance
               (conventional and systems based) for several significant projects in
@@ -209,27 +208,27 @@
               design and delivery teams to deliver all phases of engineering,
               designs, construction, commissioning, entry into service and
               handover for mega to mid-sized infrastructure programs of work.
-            </pre>
+            
 
-            <pre>
+            
               Paul’s expertise, experience and capability ensures value add, innovation and optimised solutions.
-            </pre>
+            
 
-            <pre>
+            
               Please Contact;
-            </pre>
+            
 
-            <pre>
+            
               Paul Brown
               T +61 (08) 0410 173 184
               paulbrown.nelgara@outlook.com
-            </pre>
-          </pre>
+            
+          
           ");
 
           $MainContentHandlerHelper->CreateNewContent("JasonWinter", "<b>Jason Winter</b>", "
-            <pre>
-              <pre>
+            
+              
                 Jason has a Degree in Construction Management and a Bachelor of
                 Commerce. He is a Senior Consultant with Nelgara working often
                 in the position of contracts manager or contracts specialist
@@ -240,18 +239,18 @@
                 and Rio Tinto. Jason has worked for the all major parties
                 involved in such endeavours being EPCM, the client, major
                 contractor’s and subcontractors.
-              </pre>
+              
 
-              <pre>
+              
                 His expertise includes tender negotiations, pre and post-award
                 contract management, assessment of claims for costs and EOT’s,
                 quantity estimating, procurement, and cost planning. Jason is a
                 strong leader and has managed a number of successful teams
                 throughout his career, and he has helped to develop the skills
                 and progress the careers of a number of his direct reports.
-              </pre>
+              
 
-              <pre>
+              
                 Accomplishments (In his own words)
                     •	Commercial Building Project: A project assigned to myself
                       was under extreme budget pressure upon award - with a
@@ -279,18 +278,18 @@
                       to ensure that Insurance claims (approximately $5million per day)
                       were paid and ensuring all commercial obligations were met
                       by the EPCM in an environment that had not been encountered before.
-              </pre>
+              
 
-              <pre>
+              
                 Please Contact;
-              </pre>
+              
 
-              <pre>
+              
                 Jason Winter
                 T +61 (08) 434 333 161
                 Nelgara@outlook.com
-              </pre>
-            </pre>
+              
+            
             ");
     ?>
     <div style="height:450px;"> </div>

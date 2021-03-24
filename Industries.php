@@ -35,27 +35,26 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Industries</b>");
     ?>
-    <div style="height:450px;"> </div>
     <?php include("Php/MainContent.php");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Business and Project Risk Services</b>", "
-        <pre>
-          <pre>
+        
+          
             We have established Nelgara Pty Ltd to provide clients with industry
             expertise from experienced resources contracted to deliver commercial
             aspects for businesses and projects and can provide resources to
             supplement peak work demands in line with your technical
             brief/requirements.
-          </pre>
+          
 
-          <pre>
+          
             We provide the follwing services:
-          </pre>
-        </pre>
+          
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Marine</b>", "
-        <pre>
+        
           <li>Humber International Terminal;</li>
           <li>Immingham Western Lead in Jetty;</li>
           <li>Great Yarmouth Outer Harbour;</li>
@@ -65,21 +64,21 @@
           <li>Teeside Ro-Ro Terminal;</li>
           <li>Multiple Limpet Dam Projects around the UK;</li>
           <li>Cromer Slipway;</li>
-        </pre>
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>LNG</b>", "
-        <pre>
+        
           <li>Pluto 2;</li>
           <li>Devil Creek (including Camp);</li>
           <li>Gorgon Utilities Package;</li>
           <li>Inpex Browse Ltd ECI (JV Clough/Maunsell)</li>
           <li>Newgen Kwinana Power Station (Alstom)</li>
-        </pre>
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Resource Projects</b>", "
-        <pre>
+        
           <li>RTIO Cape Lambert A & B camp;</li>
           <li>RTIO North West Coastal Highway (Road Diversion & Bridge over Rail);</li>
           <li>RTIO Mesa J TSF3 (indigenous JV);</li>
@@ -97,11 +96,11 @@
           <li>Roy Hill Marble Bar Road;</li>
           <li>Tianqi Lithium Kwinana;</li>
           <li>Talison Greenbushes Mine Expansion (Lithium);</li>
-        </pre>
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Rail Related</b>", "
-        <pre>
+        
           <li>Aubin Grove Train Station;</li>
           <li>RTIO Rosella Bellbird Sidings (Indigenous JV);</li>
           <li>BHP 3 Bridges (Launch over 5 live Rail);</li>
@@ -109,11 +108,11 @@
           <li>PTA escalator Replacement Framework;</li>
           <li>Perth City Link;</li>
           <li>Narngulu Rail Depot;</li>
-        </pre>
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Main Roads</b>", "
-        <pre>
+        
           <li>Mandurah Traffic Bridge;</li>
           <li>Reid Highway;</li>
           <li>Bruce Highway (Queensland);</li>
@@ -127,29 +126,29 @@
           <li>Abraham Street Geraldton;</li>
           <li>Greenhough Bridge Geraldton</li>
           <li>Many Projects UK based inclusive of Frameworks (Alliances)</li>
-        </pre>
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Water Related</b>", "
-        <pre>
+        
           <li>Ellenbrook Water Tank;</li>
           <li>Harvey Water Tank;</li>
           <li>Denmark Water Tank;</li>
           <li>Spring Gulley Pond C;</li>
           <li>Many Projects UK based inclusive of Frameworks (Alliances);</li>
-        </pre>
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Airport Related;</b>", "
-        <pre>
+        
           <li>Perth Airport Skybridge;</li>
           <li>Tindall Airforce Base NT;</li>
           <li>RAAF Base Amberley Buildings & Refurbishments (QLD);</li>
-        </pre>
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Building Projects</b>", "
-        <pre>
+        
           <li>Primehouse Office Development;</li>
           <li>Mount Hospital – Hybrid and Catheter Lab Refurbishment, Medical Gas Equipment Upgrade;</li>
           <li>RAAF Base Amberley Buildings & Refurbishments (QLD);</li>
@@ -157,16 +156,16 @@
           <li>Fisher & Paykel Industrial Warehouse;</li>
           <li>Scarborough Surf Club;</li>
           <li>Many Projects UK based inclusive of Schools, Warehouses, Housing and Hospitals;</li>
-        </pre>
+        
         ");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "<b>Others;</b>", "
-        <pre>
+        
           <li>Multiple Projects Sandvik (Stacker Reclaimer construction);</li>
           <li>Muja Coal demolition and refurbishment (Cost Plus Contract Negotiation and agreement);</li>
           <li>ECI /Alliance Contracts include Team Savanah (MRWA), Inpex, Russell Road, Aubin Grove,</li>
           <li>Escalators Replacement Project, Solomon Airport, Alcoa, Oz Minerals;</li>
-        </pre>
+        
         ");
     ?>
     <div style="height:450px;"> </div>

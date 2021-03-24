@@ -28,6 +28,27 @@ body { background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,
   float: right;
 }
 
+.scrollButton {
+  position: absolute;
+  top: 92%;
+  left: 48.75vw;
+  width: 3.5vw;
+  height: 3.5vw;
+  border-radius: 50%;
+  background-color: rgba(0,0,0,0.35);
+  border: 1px solid black;
+  transition: all 0.4s ease;
+}
+.scrollButton:hover {
+  background-color: rgba(0,0,0,0);
+}
+.scrollButton span {
+  color: white;
+  font-size: 16px;
+  margin-left: 1.3vw;
+  margin-top: 1.4vw;
+}
+
 .MainContentClass {
   min-width: 250px;
   position: relative;
@@ -36,7 +57,7 @@ body { background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,
   height: auto;
   width: 80vw;
   margin-left: 10vw;
-  border-radius: 5vh;
+  border-radius: 15px;
   display: inline-block;
 }
 
@@ -46,19 +67,22 @@ body { background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,
   position: relative;
   margin-top: 15px;
   margin-bottom: 50px;
+  padding:15px;
 }
 
 .MainContentClass:first-child {
 }
 
 .MainContentClass img{
-  border-radius: 7%;
+  margin-top: 7vh;
+  border-radius: 2%;
   display: inline-block;
-  height: 30vh;
-  min-height: 10vh;
-  max-height: 30vh;
+  height: 40vh;
+  width: 40vw;
+  vertical-align: middle;
   float: left;
-
+  background-color: grey;
+  box-shadow:5px 5px rgba(120,120,120,0.75);
 }
 
 .MainContentClass h1{
@@ -67,6 +91,7 @@ body { background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,
   margin-top: 7vh;
 }
 .MainContentBoxClass {
+  border-radius: 2%;
   font-size:1vmax;
   min-width: 250px;
   height: auto;
@@ -75,6 +100,8 @@ body { background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,
   width: 40vw;
   max-width: 55vw;
   height:auto;
+  background-color:#bbbbbb;
+  box-shadow:5px 5px rgba(120,120,120,0.75);
 }
 
 
@@ -118,7 +145,7 @@ body { background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,
 #BannerId {
   z-index: 1;
   position: absolute;
-  margin-top: 20vh;
+  margin-top: 40vh;
   margin-left: 14vw;
   color: #eeeeee;
   font-size: 3vmax;

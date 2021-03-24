@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="Css/animate.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
 
+
     <script src="Js/Master.mjs"></script>
     <script src="Js/jquery.min.js"></script>
     <script src="Js/wow.min.js"></script>
@@ -37,42 +38,29 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction</b>");
     ?>
-    <div style="height:250px;"> </div>
-    <div style="margin-top: 150px;">
+    <a id="WhatWeDo"></a>
+    <div style="margin-top: 500px;"></div>
     <?php include("Php/MainContent.php");
-        $MainContentHandlerHelper->CreateNewContent("cheese", "<b>What We Do</b>", "
-          <pre>
-            <pre>
-              <h2>Innovative Commercial and Project Management Solutions</h2>
-            </pre>
+        $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b>What We Do</b>", "
+              Innovative Commercial and Project Management Solutions
 
-            <pre>
               Nelgara Pty Ltd is an Australian commercial management consulting firm
               that leverages its significant industry experience to develop and apply
               best practice solutions to a broad mix of service industries including oil and gas,
               water treatment, power distribution, infrastructure, resources and mining
               for both private and public institutions.
-            </pre>
 
-            <pre>
               We can understand our clients’ needs quickly, as we have worked there,
               and respond with significant and cost-effective improvements to their
               operational performance whilst supporting their business goals.
-            </pre>
 
-            <pre>
               We bring in combined local and global knowledge for the benefit of the Australian
               construction industry.
-            </pre>
 
-            <pre>
-              <b>We put clients first.</b>
-            </pre>
-          </pre>
+              We put clients first.
           ");
 
-        $MainContentHandlerHelper->CreateNewContent("cheese", "<b>Expertise</b>", "
-          <pre>
+        $MainContentHandlerHelper->CreateNewContent("cheese", "RIGHT", "<b>Expertise</b>", "
             Nelgara Pty Ltd brings more than 100 years of experience in delivering
             solutions across the end to end phases of projects both pre and post
             construction. Nelgara continues to draw on its actual delivery experience
@@ -81,16 +69,13 @@
             We are Skilled in Project Leadership, People, Schedule and Cost Management,
             Sub-Contractor Management, and Stressed Project Recovery
             (more consultants are joining monthly).
-          </pre>
           ");
 
-        $MainContentHandlerHelper->CreateNewContent("cheese", "<b>Locations</b>", "
-          <pre>
+        $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b>Locations</b>", "
             Nelgara Pty Ltd is based in Perth, WA but consultants have both worked on projects
             and or being responsible at a business Contracts Manager or Commercial Manager level
             for projects in Queensland, NSW and Victoria.
             We can also provide solutions through our network of consultant partners in the industry.
-          </pre>
           ");
     ?>
     </div>
