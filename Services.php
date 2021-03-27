@@ -37,86 +37,58 @@
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction Services</b>");
     ?>
     <?php include("Php/MainContent.php");
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>The business</b>", "
-        
-          
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>The business</b>", "
             We have established Nelgara Pty Ltd to provide clients with industry
             expertise from experienced resources contracted to deliver commercial
             aspects for businesses and projects and can provide resources to supplement
             peak work demands in line with your technical brief/requirements.
-          
 
-          
             We provide following services:
-          
-        
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Business and Project Risk Services</b>", "
-        
-          
-            <h2>Businesses</h2>
-          
+      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Business and Project Risk Services</b>", "
+            Businesses
 
-          
-            <li>Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements,
-            <li>minor professional Services Agreements;</li>
-            <li>Pre-Contract Review of Contract Terms prior to submission of bids;</li>
-            <li>Advice on Contract Negotiations;</li>
-            <li>Project Commercial Controls health checks;</li>
-            <li>Through our partner consultants, Estimating/Planning Services;</li>
-          
-        
+            Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements,
+            minor professional Services Agreements;
+            Pre-Contract Review of Contract Terms prior to submission of bids;
+            Advice on Contract Negotiations;
+            Project Commercial Controls health checks;
+            Through our partner consultants, Estimating/Planning Services;
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Projects</b>", "
-        
-          <li>Project Procurement Services (Startup /Strategy/Procurement);</li>
-          <li>Preparation of Summary Key Obligations and Rights (Project Commercial Game Plan);</li>
-          <li>Quantity Surveyor/Contract Administrator Services (short/long term);</li>
-          <li>Program Review/Management advice;</li>
-          <li>Variation/Delay/Disruption & Extension of Time Claim preparation or management;</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Projects</b>", "
+          Project Procurement Services (Startup /Strategy/Procurement);
+          Preparation of Summary Key Obligations and Rights (Project Commercial Game Plan);
+          Quantity Surveyor/Contract Administrator Services (short/long term);
+          Program Review/Management advice;
+          Variation/Delay/Disruption & Extension of Time Claim preparation or management;
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Management</b>", "
-        
-          
-            <h2>Project Management</h2>
-          
+      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Management</b>", "
+            Project Management
 
-          
-            <li>Project management support;</li>
-            <li>Project reviews and due diligence;</li>
-            <li>Risk management analytics and advice;</li>
-            <li>Contract management;</li>
-            <li>Commercial Operational readiness;</li>
-          
-        
+            Project management support;
+            Project reviews and due diligence;
+            Risk management analytics and advice;
+            Contract management;
+            Commercial Operational readiness;
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Project Controls</b>", "
-        
-          <li>Cost management;</li>
-          <li>Planning and scheduling advice;</li>
-          <li>Change management;</li>
-          <li>Project reporting;</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Project Controls</b>", "
+          Cost management;
+          Planning and scheduling advice;
+          Change management;
+          Project reporting;
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Improvement Services</b>", "
-        
-          
-            <li>Services for projects under duress;</li>
-            <li>Develop and implement business commercial management processes;</li>
-          
+      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Improvement Services</b>", "
+            Services for projects under duress;<
+            Develop and implement business commercial management processes;
 
-          
             Nelgara continues to draw on its actual delivery experience integrated with
             the latest technology solutions to provide a unique firm that delivers
             sustainable outcomes for an ever-changing world.
-          
-        
         ");
     ?>
     <div style="height:450px;"> </div>

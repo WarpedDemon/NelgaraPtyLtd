@@ -36,15 +36,14 @@
       $BannerHandlerHelper->CreateNewContent("<b>About</b>");
     ?>
     <?php include("Php/MainContent.php");
-      $MainContentHandlerHelper->CreateNewContent("random", "<b>Contact</b>", "
-        
-          <h2>Executive Headquarters</h2>
-          <h3>28 Henderson Drive,</h3>
-          <h3>Kallaroo, Perth,</h3>
-          <h3>WA 6025,</h3></p>
-          <h3>TEL: +61 (0)434 333 161,</h3>
-          <h3>E-Mail: Nelgara@outlook.com</h3>
-        
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Contact</b>", "
+          Executive Headquarters
+          28 Henderson Drive
+          Kallaroo
+          Perth
+          WA 6025
+          TEL: +61 (0)434 333 161
+          E-Mail: Nelgara@outlook.com
         ");
 
     ?>

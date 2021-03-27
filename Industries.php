@@ -37,135 +37,111 @@
     ?>
     <?php include("Php/MainContent.php");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Business and Project Risk Services</b>", "
-        
-          
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "LEFT", "<b>Business and Project Risk Services</b>", "
             We have established Nelgara Pty Ltd to provide clients with industry
             expertise from experienced resources contracted to deliver commercial
             aspects for businesses and projects and can provide resources to
             supplement peak work demands in line with your technical
             brief/requirements.
-          
 
-          
             We provide the follwing services:
-          
-        
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Marine</b>", "
-        
-          <li>Humber International Terminal;</li>
-          <li>Immingham Western Lead in Jetty;</li>
-          <li>Great Yarmouth Outer Harbour;</li>
-          <li>Mersey Docks Framework;</li>
-          <li>Gladstone Lock Gates;</li>
-          <li>Ipswich Ro-Ro Terminal;</li>
-          <li>Teeside Ro-Ro Terminal;</li>
-          <li>Multiple Limpet Dam Projects around the UK;</li>
-          <li>Cromer Slipway;</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Marine</b>", "
+          Humber International Terminal;
+          Immingham Western Lead in Jetty;
+          Great Yarmouth Outer Harbour;
+          Mersey Docks Framework;
+          Gladstone Lock Gates;
+          Ipswich Ro-Ro Terminal;
+          Teeside Ro-Ro Terminal;
+          Multiple Limpet Dam Projects around the UK;
+          Cromer Slipway;
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>LNG</b>", "
-        
-          <li>Pluto 2;</li>
-          <li>Devil Creek (including Camp);</li>
-          <li>Gorgon Utilities Package;</li>
-          <li>Inpex Browse Ltd ECI (JV Clough/Maunsell)</li>
-          <li>Newgen Kwinana Power Station (Alstom)</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>LNG</b>", "
+          Pluto 2;
+          Devil Creek (including Camp);
+          Gorgon Utilities Package;
+          Inpex Browse Ltd ECI (JV Clough/Maunsell)
+          Newgen Kwinana Power Station (Alstom)
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Resource Projects</b>", "
-        
-          <li>RTIO Cape Lambert A & B camp;</li>
-          <li>RTIO North West Coastal Highway (Road Diversion & Bridge over Rail);</li>
-          <li>RTIO Mesa J TSF3 (indigenous JV);</li>
-          <li>RTIO Mesa J TSF4 (Indigenous JV);</li>
-          <li>RTIO Rosella Bellbird Sidings (Indigenous JV);</li>
-          <li>RTIO Dampier Fuel Wharf;</li>
-          <li>RTIO Argyle Diamond Mine;</li>
-          <li>BHP Primary & Secondary Crushers;</li>
-          <li>BHP Finucane Water Main Services Relocation;</li>
-          <li>BHP Jimblebar (including dewatering package);</li>
-          <li>BHP 3 Bridges (launch over 5 live Rail);</li>
-          <li>BHP Mulla Mulla Village Expansion;</li>
-          <li>FMG Dewatering Framework Christmas creek & Cloudbreak (Indigenous JV);</li>
-          <li>FMG Solomon Airstrip & Fly Camp;</li>
-          <li>Roy Hill Marble Bar Road;</li>
-          <li>Tianqi Lithium Kwinana;</li>
-          <li>Talison Greenbushes Mine Expansion (Lithium);</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Resource Projects</b>", "
+          RTIO Cape Lambert A & B camp;
+          RTIO North West Coastal Highway (Road Diversion & Bridge over Rail);
+          RTIO Mesa J TSF3 (indigenous JV);
+          RTIO Mesa J TSF4 (Indigenous JV);
+          RTIO Rosella Bellbird Sidings (Indigenous JV);
+          RTIO Dampier Fuel Wharf;
+          RTIO Argyle Diamond Mine;
+          BHP Primary & Secondary Crushers;
+          BHP Finucane Water Main Services Relocation;
+          BHP Jimblebar (including dewatering package);
+          BHP 3 Bridges (launch over 5 live Rail);
+          BHP Mulla Mulla Village Expansion;
+          FMG Dewatering Framework Christmas creek & Cloudbreak (Indigenous JV);
+          FMG Solomon Airstrip & Fly Camp;
+          Roy Hill Marble Bar Road;
+          Tianqi Lithium Kwinana;
+          Talison Greenbushes Mine Expansion (Lithium);
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Rail Related</b>", "
-        
-          <li>Aubin Grove Train Station;</li>
-          <li>RTIO Rosella Bellbird Sidings (Indigenous JV);</li>
-          <li>BHP 3 Bridges (Launch over 5 live Rail);</li>
-          <li>RTIO North West Coastal Highway (Bridge over Rail);</li>
-          <li>PTA escalator Replacement Framework;</li>
-          <li>Perth City Link;</li>
-          <li>Narngulu Rail Depot;</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Rail Related</b>", "
+          Aubin Grove Train Station;
+          RTIO Rosella Bellbird Sidings (Indigenous JV);
+          BHP 3 Bridges (Launch over 5 live Rail);
+          RTIO North West Coastal Highway (Bridge over Rail);
+          PTA escalator Replacement Framework;
+          Perth City Link;
+          Narngulu Rail Depot;
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Main Roads</b>", "
-        
-          <li>Mandurah Traffic Bridge;</li>
-          <li>Reid Highway;</li>
-          <li>Bruce Highway (Queensland);</li>
-          <li>Dawson Highway (Queensland);</li>
-          <li>Gateway Alliance;</li>
-          <li>Main Roads Infrastructure Alliance (MRIA);</li>
-          <li>New Lord Street;</li>
-          <li>Ellenbrook;</li>
-          <li>Russell Road ECI And Bridge dueling Project;</li>
-          <li>Great Northern Highway ‘Team Savanah”;</li>
-          <li>Abraham Street Geraldton;</li>
-          <li>Greenhough Bridge Geraldton</li>
-          <li>Many Projects UK based inclusive of Frameworks (Alliances)</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Main Roads</b>", "
+          Mandurah Traffic Bridge;
+          Reid Highway;
+          Bruce Highway (Queensland);
+          Dawson Highway (Queensland);
+          Gateway Alliance;
+          Main Roads Infrastructure Alliance (MRIA);
+          New Lord Street;
+          Ellenbrook;
+          Russell Road ECI And Bridge dueling Project;
+          Great Northern Highway ‘Team Savanah”;
+          Abraham Street Geraldton;
+          Greenhough Bridge Geraldton
+          Many Projects UK based inclusive of Frameworks (Alliances)
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Water Related</b>", "
-        
-          <li>Ellenbrook Water Tank;</li>
-          <li>Harvey Water Tank;</li>
-          <li>Denmark Water Tank;</li>
-          <li>Spring Gulley Pond C;</li>
-          <li>Many Projects UK based inclusive of Frameworks (Alliances);</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Water Related</b>", "
+          Ellenbrook Water Tank;
+          Harvey Water Tank;
+          Denmark Water Tank;
+          Spring Gulley Pond C;
+          Many Projects UK based inclusive of Frameworks (Alliances);
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Airport Related;</b>", "
-        
-          <li>Perth Airport Skybridge;</li>
-          <li>Tindall Airforce Base NT;</li>
-          <li>RAAF Base Amberley Buildings & Refurbishments (QLD);</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Airport Related;</b>", "
+          Perth Airport Skybridge;
+          Tindall Airforce Base NT;
+          RAAF Base Amberley Buildings & Refurbishments (QLD);
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Building Projects</b>", "
-        
-          <li>Primehouse Office Development;</li>
-          <li>Mount Hospital – Hybrid and Catheter Lab Refurbishment, Medical Gas Equipment Upgrade;</li>
-          <li>RAAF Base Amberley Buildings & Refurbishments (QLD);</li>
-          <li>240 St Georges Terrace Office Refurbishment;</li>
-          <li>Fisher & Paykel Industrial Warehouse;</li>
-          <li>Scarborough Surf Club;</li>
-          <li>Many Projects UK based inclusive of Schools, Warehouses, Housing and Hospitals;</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Building Projects</b>", "
+          Primehouse Office Development;
+          Mount Hospital – Hybrid and Catheter Lab Refurbishment, Medical Gas Equipment Upgrade;
+          RAAF Base Amberley Buildings & Refurbishments (QLD);
+          240 St Georges Terrace Office Refurbishment;
+          Fisher & Paykel Industrial Warehouse;
+          Scarborough Surf Club;
+          Many Projects UK based inclusive of Schools, Warehouses, Housing and Hospitals;
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "<b>Others;</b>", "
-        
-          <li>Multiple Projects Sandvik (Stacker Reclaimer construction);</li>
-          <li>Muja Coal demolition and refurbishment (Cost Plus Contract Negotiation and agreement);</li>
-          <li>ECI /Alliance Contracts include Team Savanah (MRWA), Inpex, Russell Road, Aubin Grove,</li>
-          <li>Escalators Replacement Project, Solomon Airport, Alcoa, Oz Minerals;</li>
-        
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Others;</b>", "
+          Multiple Projects Sandvik (Stacker Reclaimer construction);
+          Muja Coal demolition and refurbishment (Cost Plus Contract Negotiation and agreement);
+          ECI /Alliance Contracts include Team Savanah (MRWA), Inpex, Russell Road, Aubin Grove,
+          Escalators Replacement Project, Solomon Airport, Alcoa, Oz Minerals;
         ");
     ?>
     <div style="height:450px;"> </div>
