@@ -35,6 +35,7 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Industries</b>");
     ?>
+    <a id="WhatWeDo"></a>
     <div style="margin-top: 500px;"></div>
     <?php include("Php/MainContent.php");
 
