@@ -2,11 +2,15 @@
 html { overflow-x: hidden;}
 body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%); }
 
+#FooterText{
+  width:250px;
+  height:250px;
+}
+
 #Footer {
   background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%);
   height: 250px;
   width: 100%;
-
   bottom: 0;
   left:0;
   color: white !important;

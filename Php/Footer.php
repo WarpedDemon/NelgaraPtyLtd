@@ -3,7 +3,7 @@
   echo '
   <div id="Footer" style="color:black;">
     <div>
-      <p>
+      <p id="FooterText">
         <a href="About.php"><span id="ContactInfo">Executive Headquarters</a>
         28 Henderson Drive
         Kallaroo, Perth
