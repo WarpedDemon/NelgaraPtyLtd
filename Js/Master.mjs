@@ -248,7 +248,6 @@ function OnScroll(e) {
     }
   } else {
     if(elem.style.display == "block") {
-      }, 1000);
     }
   }
 }
