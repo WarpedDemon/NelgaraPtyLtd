@@ -67,6 +67,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 }
 
 .MainContentText{
+  color: black;
   min-width: 250px;
   height: auto;
   position: relative;
