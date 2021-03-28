@@ -3,6 +3,8 @@ html { overflow-x: hidden;}
 body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%); }
 
 #FooterText{
+  padding-top: 15px;
+  padding-left: 15px;
   width:250px;
   height:250px;
   color:black !important;
@@ -14,6 +16,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 }
 
 #Footer {
+  margin-top: -10px;
   background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%);
   height: 200px;
   width: 100%;
