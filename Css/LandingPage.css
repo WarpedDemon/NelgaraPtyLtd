@@ -265,12 +265,3 @@ body { background: linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,
   display: inline-block;
   list-style: none;
 }
-
-.ServicesDark,
-.PeopleDark,
-.AboutDark,
-.IndustriesDark {
-  background-color: rgba(0,0,0,0.75) !important;
-  border-left: 2px solid black !important;
-  border-right: 2px solid black !important;
-}

@@ -1,7 +1,8 @@
 <?php
 echo '
 
-    <div id="Header" class="animated fadeInDown ">
+    <div id="Header">
+      <img src="../img/logo.png" style="width:50px; height:50px;"></img>
       <a id="LightSwitch" class=""><span class="fas fa-lightbulb"></span></a>
       <h1 id="Title" class=""><a href="index.php" id="Title_Text" class=""> Nelgara Pty Ltd </a></h1>
       <div id="Nav_Container" class="">

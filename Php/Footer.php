@@ -1,7 +1,7 @@
 <?php
 
   echo '
-  <div id="Footer" class="animated fadeInUp">
+  <div id="Footer">
     <a href="About.php"><span id="ContactInfo">Executive Headquarters</a>
     <br/><br/>
     28 Henderson Drive
