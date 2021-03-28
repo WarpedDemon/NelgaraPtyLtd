@@ -98,6 +98,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
   margin-top: 7vh;
 }
 .MainContentBoxClass {
+  color: black;
   border-radius: 5px;
   font-size:1vmax;
   min-width: 250px;
