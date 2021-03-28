@@ -239,20 +239,6 @@ class NelgaraMaster {
 
 }
 
-function OnScroll(e) {
-  var elem = document.getElementById("Footer");
-  var val = (document.documentElement.scrollTop  + $(window).height());
-  if(val >= $(document).height()) {
-    if(elem.style.display == "none" || elem.style.display == "") {
-
-    }
-  } else {
-    if(elem.style.display == "block") {
-      }, 1000);
-    }
-  }
-}
-
 function OnServicesClick(e) {
 
 }
