@@ -2,7 +2,7 @@
 echo '
 
     <div id="Header">
-      <img src="../img/logo.png" style="width:50px; height:50px;"></img>
+      <img src="../img/logo.png" style="width:125px; height:125px; margin-left: -595px; margin-top: -10px;"></img>
       <a id="LightSwitch" class=""><span class="fas fa-lightbulb"></span></a>
       <h1 id="Title" class=""><a href="index.php" id="Title_Text" class=""> Nelgara Pty Ltd </a></h1>
       <div id="Nav_Container" class="">
