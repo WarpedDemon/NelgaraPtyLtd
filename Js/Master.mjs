@@ -96,7 +96,6 @@ function OnClickLightSwitch()
   {
     document.body.style.background = "linear-gradient(180deg, rgba(70,70,70,1) 0%, rgba(45,45,45,1) 50%, rgba(0,0,0,1) 100%)";
     document.body.style.color = "white";
-    document.getElementByClass("MainContentText").style.color = "black";
     document.getElementById("Footer").style.background = "linear-gradient(180deg, rgba(70,70,70,1) 0%, rgba(45,45,45,1) 50%, rgba(0,0,0,1) 100%)";
     document.getElementById("Footer").style.color = "black";
     changeBackground(active);
@@ -104,7 +103,6 @@ function OnClickLightSwitch()
   }else{
     document.body.style.background = "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%)";
     document.body.style.color = "black";
-    document.getElementByClass("MainContentText").style.color = "black!important";
     document.getElementById("Footer").style.background = "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%)";
     document.getElementById("Footer").style.color = "white!important";
     changeBackground(active);
