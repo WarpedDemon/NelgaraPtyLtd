@@ -40,7 +40,7 @@
     <div style="margin-top: 500px;"></div>
     <?php include("Php/MainContent.php");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "LEFT", "<b>Business and Project Risk Services</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Business and Project Risk Services</b>", "
             We have established Nelgara Pty Ltd to provide clients with industry
             expertise from experienced resources contracted to deliver commercial
             aspects for businesses and projects and can provide resources to
