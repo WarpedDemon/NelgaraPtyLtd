@@ -28,7 +28,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Construction Industry 🏗️ | Nelgara Pty Ltd</title>
+    <title>Construction Industry 🏗️ | Nelgara Pty Ltd</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>

@@ -31,7 +31,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd | Commercial Construction 🏗️</title>
+    <title>Nelgara Pty Ltd | Commercial Construction 🏗️</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>

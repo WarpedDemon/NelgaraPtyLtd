@@ -29,7 +29,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd | Commercial Construction Services🏗️</title>
+    <title>Nelgara Pty Ltd | Commercial Construction Services🏗️</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>

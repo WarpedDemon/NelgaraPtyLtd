@@ -28,7 +28,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - About</title>
+    <title>Nelgara Pty Ltd - About</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
