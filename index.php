@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
-
+    <link rel='icon' href='favicon.ico' type='../img/logo.png'/>
     <meta property="title" content="Commericial Construction Services 🏗️ | Nelgara Pty Ltd">
     <meta name="description" content="Nelgara Pty Ltd is an Australian commercial management consulting firm
       that leverages its significant industry experience to develop and apply

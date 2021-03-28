@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
-
+    <link rel='icon' href='favicon.ico' type='../img/logo.png'/>
     <meta property="title" content="Nelgara Pty Ltd | People">
     <meta name="description" content="Nelgara Pty Ltd has a great team of hard working professionals. View their successes here!">
     <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
