@@ -10,7 +10,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
   bottom: 0;
   left:0;
   color: white !important;
-  border-top: solid black;
+  border-top: 2.5px solid black;
 }
 #ContactInfo {
   margin-top: 22px;
@@ -75,14 +75,14 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 
 .MainContentClass img{
   margin-top: 7vh;
-  border-radius: 2%;
+  border-radius: 5px;
   display: inline-block;
   height: 40vh;
   width: 40vw;
   vertical-align: middle;
   float: left;
   background-color: grey;
-  box-shadow:5px 5px rgba(120,120,120,0.75);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .MainContentClass h1{
@@ -91,7 +91,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
   margin-top: 7vh;
 }
 .MainContentBoxClass {
-  border-radius: 2%;
+  border-radius: 5px;
   font-size:1vmax;
   min-width: 250px;
   height: auto;
