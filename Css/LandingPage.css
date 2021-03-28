@@ -80,6 +80,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 }
 
 .MainContentClass img{
+  color: black;
   margin-top: 7vh;
   border-radius: 5px;
   display: inline-block;
