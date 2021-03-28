@@ -226,9 +226,4 @@
     <?php include("Php/Footer.php");
      ?>
   </body>
-  <script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function() {
-      PageHandler.InitializeBanner(["img/brisbaneday.png"], ["img/brisbanenight.png"]);
-    }, false);
-  </script>
 </html>

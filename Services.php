@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    
+
     <link rel='icon' href='favicon.ico' type='../img/logo.png'/>
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
@@ -99,9 +99,4 @@
     <?php include("Php/Footer.php");
      ?>
   </body>
-  <script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function() {
-      PageHandler.InitializeBanner(["img/perthday.png"], ["img/perthnight.png"]);
-    }, false);
-  </script>
 </html>

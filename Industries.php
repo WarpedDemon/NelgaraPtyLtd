@@ -151,9 +151,4 @@
     <?php include("Php/Footer.php");
      ?>
   </body>
-  <script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function() {
-      PageHandler.InitializeBanner(["../img/melbourneday.png"], ["../img/melbournenight.png"]);
-    }, false);
-  </script>
 </html>

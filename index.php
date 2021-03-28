@@ -82,9 +82,4 @@
     <div style="height:250px;"> </div>
     <?php include("Php/Footer.php"); ?>
   </body>
-  <script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function() {
-
-    }, false);
-  </script>
 </html>

@@ -54,9 +54,4 @@
     <?php include("Php/Footer.php");
      ?>
   </body>
-  <script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function() {
-      PageHandler.InitializeBanner(["img/sydneyday.png"], ["img/sydneynight.png"]);
-    }, false);
-  </script>
 </html>
