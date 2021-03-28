@@ -244,10 +244,15 @@ function OnScroll(e) {
   var val = (document.documentElement.scrollTop  + $(window).height());
   if(val >= $(document).height()) {
     if(elem.style.display == "none" || elem.style.display == "") {
-
+      elem.style.display = "block";
+      elem.className = "animated fadeInUp";
     }
   } else {
     if(elem.style.display == "block") {
+      elem.className = "animated fadeOutDown";
+      setTimeout(() => {
+        elem.style.display = "none";
+      }, 1000);
     }
   }
 }
