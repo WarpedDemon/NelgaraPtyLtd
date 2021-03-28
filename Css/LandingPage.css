@@ -5,6 +5,12 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 #FooterText{
   width:250px;
   height:250px;
+  color:black;
+}
+
+#FooterText a{
+  color:black;
+  text-decoration: none;
 }
 
 #Footer {
@@ -13,7 +19,6 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
   width: 100%;
   bottom: 0;
   left:0;
-  color: white !important;
   border-top: 2.5px solid black;
 }
 #ContactInfo {
@@ -23,7 +28,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
   margin-left: 40px;
 }
 #Links {
-  margin-top: 22px;
+  margin-top: 12px;
   margin-right: 40px;
   text-decoration: none;
   color: white !important;
