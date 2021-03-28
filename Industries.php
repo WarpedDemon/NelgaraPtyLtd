@@ -146,7 +146,7 @@
           Escalators Replacement Project, Solomon Airport, Alcoa, Oz Minerals;
         ");
     ?>
-    <div style="height:450px;"> </div>
+    <div style="height:250px;"> </div>
     <?php include("Php/Footer.php");
      ?>
   </body>

@@ -93,7 +93,7 @@
             sustainable outcomes for an ever-changing world.
         ");
     ?>
-    <div style="height:450px;"> </div>
+    <div style="height:250px;"> </div>
     <?php include("Php/Footer.php");
      ?>
   </body>
