@@ -2,20 +2,17 @@
 echo '
 
     <div id="Header" class="animated fadeInDown ">
-      <h1 id="Title" class=""><a href="index.php" id="Title_Text" class=""> Nelgara Pty Ltd </a></h1>
-
-      <div id="Nav_Container" class="">
-        <span id="Hamburger" style="color:white;" class="fa fa-bars"></span>
-      </div>
-
-      <ul id="Nav">
-        <a href="../Services.php" id="Services"><li class="animate fadeInLeft wow" data-wow-delay="0.25s"><b><p>Services</p></b></li></a>
-        <a href="../Industries.php" id="Industries"><li class="animate fadeInLeft wow" data-wow-delay="0.50s"><b><p>Industries</p></b></li></a>
-        <a href="../About.php" id="About"><li class="animate fadeInLeft wow" data-wow-delay="0.75s"><b><p>About</p></b></li></a>
-        <a href="../People.php" id="People"><li class="animate fadeInLeft wow" data-wow-delay="1s"><b><p>People</p></b></li></a>
-      </ul>
-
       <a id="LightSwitch" class=""><span class="fas fa-lightbulb"></span></a>
+      <h1 id="Title" class=""><a href="index.php" id="Title_Text" class=""> Nelgara Pty Ltd </a></h1>
+      <div id="Nav_Container" class="">
+      <span id="Hamburger" style="color:white;" class="fa fa-bars"></span>
+      </div>
+        <ul id="Nav">
+          <a href="../Services.php" id="Services"><li class="animate fadeInLeft wow" data-wow-delay="0.25s"><b><p>Services</p></b></li></a>
+          <a href="../Industries.php" id="Industries"><li class="animate fadeInLeft wow" data-wow-delay="0.50s"><b><p>Industries</p></b></li></a>
+          <a href="../About.php" id="About"><li class="animate fadeInLeft wow" data-wow-delay="0.75s"><b><p>About</p></b></li></a>
+          <a href="../People.php" id="People"><li class="animate fadeInLeft wow" data-wow-delay="1s"><b><p>People</p></b></li></a>
+        </ul>
     </div>
     <!--
     <div id="HeaderDark" class="HeaderClass animated fadeInDown">
