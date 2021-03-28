@@ -10,7 +10,7 @@
          Your browser does not support the video tag.
        </video>
        <h1 id="BannerId">'. $Title .'</h1>
-       <a href="#WhatWeDo"><div class="scrollButton">
+       <a href="#content"><div class="scrollButton">
            <span class="fas fa-chevron-down"></span>
        </div></a>
        <div class="gradient-left"></div>

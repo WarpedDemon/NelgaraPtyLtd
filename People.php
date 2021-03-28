@@ -35,7 +35,7 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Our Team</b>");
     ?>
-    <a id="WhatWeDo"></a>
+    <a id="content"></a>
     <div style="margin-top: 500px;"></div>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("NickNoonan", "LEFT", "<b>Nicholas (Nick) Noonan</b>", "
