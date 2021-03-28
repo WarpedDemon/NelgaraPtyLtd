@@ -28,14 +28,14 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title>Nelgara Pty Ltd - About</title>
+    <title> Nelgara Pty Ltd - About</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>About</b>");
     ?>
-    <a id="content"></a>
+    <a id="WhatWeDo"></a>
     <div style="margin-top: 500px;"></div>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Contact</b>", "

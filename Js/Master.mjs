@@ -94,15 +94,15 @@ function OnClickLightSwitch()
 {
   if(active)
   {
-    document.body.style.background = "linear-gradient(180deg, rgba(252,252,252,1) 0%, rgba(189,189,189,1) 50%, rgba(147,147,147,1) 100%)";
+    document.body.style.background = "linear-gradient(222deg, rgba(0,0,0,1) 0%, rgba(51,51,51,1) 50%, rgba(17,17,17,1) 100%)";
     document.body.style.color = "white";
-    document.getElementById("Footer").style.background = "linear-gradient(180deg, rgba(252,252,252,1) 0%, rgba(189,189,189,1) 50%, rgba(147,147,147,1) 100%)";
+    document.getElementById("Footer").style.background = "linear-gradient(222deg, rgba(0,0,0,1) 0%, rgba(51,51,51,1) 50%, rgba(17,17,17,1) 100%)";
     changeBackground(active);
     active = false;
   }else{
-    document.body.style.background = "linear-gradient(180deg, rgba(107,107,107,1) 0%, rgba(65,65,65,1) 50%, rgba(0,0,0,1) 100%)";
+    document.body.style.background = "linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%)";
     document.body.style.color = "black";
-    document.getElementById("Footer").style.background = "linear-gradient(180deg, rgba(107,107,107,1) 0%, rgba(65,65,65,1) 50%, rgba(0,0,0,1) 100%)";
+    document.getElementById("Footer").style.background = "linear-gradient(222deg, rgba(255,255,255,1) 0%, rgba(128,128,128,1) 50%, rgba(94,94,94,1) 100%)";
     changeBackground(active);
     active = true;
   }

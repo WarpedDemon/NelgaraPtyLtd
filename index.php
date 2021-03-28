@@ -31,14 +31,14 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title>Nelgara Pty Ltd | Commercial Construction 🏗️</title>
+    <title> Nelgara Pty Ltd | Commercial Construction 🏗️</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction</b>");
     ?>
-    <a id="content"></a>
+    <a id="WhatWeDo"></a>
     <div style="margin-top: 500px;"></div>
     <?php include("Php/MainContent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b>What We Do</b>", "
