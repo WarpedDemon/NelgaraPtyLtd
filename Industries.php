@@ -50,7 +50,7 @@
             We provide the follwing services:
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Marine</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Marine</b>", "
           Humber International Terminal;
           Immingham Western Lead in Jetty;
           Great Yarmouth Outer Harbour;
@@ -70,7 +70,7 @@
           Newgen Kwinana Power Station (Alstom)
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Resource Projects</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Resource Projects</b>", "
           RTIO Cape Lambert A & B camp;
           RTIO North West Coastal Highway (Road Diversion & Bridge over Rail);
           RTIO Mesa J TSF3 (indigenous JV);
@@ -100,7 +100,7 @@
           Narngulu Rail Depot;
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Main Roads</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Main Roads</b>", "
           Mandurah Traffic Bridge;
           Reid Highway;
           Bruce Highway (Queensland);
