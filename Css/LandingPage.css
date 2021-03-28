@@ -28,7 +28,6 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 #Links {
   margin-right: 40px;
   text-decoration: none;
-  color:black !important;
   text-decoration-line: none;
   display: inline-block;
   float: right;
