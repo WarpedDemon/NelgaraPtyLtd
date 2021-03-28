@@ -5,30 +5,24 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 #FooterText{
   width:250px;
   height:250px;
-  color:black;
+  color:black !important;
 }
 
 #FooterText a{
-  color:black;
+  color:black !important;
   text-decoration: none;
 }
 
 #Footer {
   background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%);
-  height: 250px;
+  height: 150px;
   width: 100%;
   bottom: 0;
-  left:0;
-  border-top: 2.5px solid black;
+  left: 0;
+  border-top: 1.5px solid black;
 }
-#ContactInfo {
-  margin-top: 22px;
-  display: inline-block;
-  float: left;
-  margin-left: 40px;
-}
+
 #Links {
-  margin-top: 12px;
   margin-right: 40px;
   text-decoration: none;
   color: white !important;
