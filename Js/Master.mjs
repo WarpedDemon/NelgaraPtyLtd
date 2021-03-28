@@ -104,9 +104,9 @@ function OnClickLightSwitch()
   }else{
     document.body.style.background = "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%)";
     document.body.style.color = "black";
-    document.getElementByClass("MainContentText").style.color = "white";
+    document.getElementByClass("MainContentText").style.color = "black!important";
     document.getElementById("Footer").style.background = "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%)";
-    document.getElementById("Footer").style.color = "white";
+    document.getElementById("Footer").style.color = "white!important";
     changeBackground(active);
     active = true;
   }
