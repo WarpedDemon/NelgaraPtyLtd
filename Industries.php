@@ -36,7 +36,7 @@
       $BannerHandlerHelper->CreateNewContent("<b>Industries</b>");
     ?>
     <a id="WhatWeDo"></a>
-    <div style="margin-top: 500px;"></div>
+    <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
 
       $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Business and Project Risk Services</b>", "

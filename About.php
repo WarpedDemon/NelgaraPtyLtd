@@ -36,7 +36,7 @@
       $BannerHandlerHelper->CreateNewContent("<b>About</b>");
     ?>
     <a id="WhatWeDo"></a>
-    <div style="margin-top: 500px;"></div>
+    <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Contact</b>", "
           Executive Headquarters

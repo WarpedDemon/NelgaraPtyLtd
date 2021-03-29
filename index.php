@@ -38,7 +38,7 @@
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction</b>");
     ?>
     <a id="WhatWeDo"></a>
-    <div style="margin-top: 500px;"></div>
+    <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b>What We Do</b>", "
               Innovative Commercial and Project Management Solutions

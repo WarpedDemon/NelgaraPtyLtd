@@ -37,7 +37,7 @@
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction Services</b>");
     ?>
     <a id="WhatWeDo"></a>
-    <div style="margin-top: 500px;"></div>
+    <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>The business</b>", "
             We have established Nelgara Pty Ltd to provide clients with industry
