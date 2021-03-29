@@ -1,6 +1,27 @@
 * { padding: 0; margin: 0;  font-family: helvetica, sans-serif;}
 html { overflow-x: hidden;}
-body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%); }
+body { background-color: #fffdfa; }
+
+.row{
+  flex-basis: 33.3%;
+  flex-direction: row;
+  height: 30px;
+
+}
+
+.column{
+  flex-basis: 33.3%;
+  flex-direction: column;
+  height: 100px;
+
+}
+
+#terms {
+  color: black;
+}
+.copyrightText {
+  color: grey;
+}
 
 #FooterText{
   padding-top: 15px;
@@ -16,12 +37,16 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 }
 
 #Footer {
-  margin-top: -10px;
-  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,186,1) 50%, rgba(163,163,163,1) 100%);
-  height: 200px;
+  display:flex;
+  flex-wrap: wrap;
+  background-color: #f6f4f5;
+  height: auto;
+  padding: 10px;
   width: 100%;
+  height: auto;
   bottom: 0;
   left: 0;
+  text-align: center;
   border-top: 1.5px solid black;
 }
 
@@ -88,7 +113,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
   width: 40vw;
   vertical-align: middle;
   float: left;
-  background-color: grey;
+  background-color: #ebe0c6;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -162,10 +187,15 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
 }
 
 #Logo {
+  /*
   width:125px;
   height:125px;
   margin-left: -635px;
   margin-top: -10px;
+  */
+  float: left;
+  margin-left: 1vw;
+  margin-top: 7px;
 }
 
 #Header {
@@ -174,15 +204,24 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
   height: 100px;
   position: absolute;
   top: 0;
-  background-image: url(../img/pipes.png);
+  background-image: #EFE8D8;
   background-repeat: repeat;
   z-index: 11;
 }
 .HeaderDark {
-  background-image: url(../img/crissXcross.png) !important;
-  background-repeat: repeat !important;
+  background-color: #1b1b1b !important;
   z-index: 10 !important;
   color: white !important;
+
+}
+/* Controls turning the nav bar components to dark mode. */
+.ServicesDark,
+.AboutDark,
+.PeopleDark,
+.IndustriesDark {
+  background-color: #141414 !important;
+  color: #f3f3f3 !important;
+  background-color: rgba(0,0,0,0.5) !important;
 
 }
 .LightSwitchDark:hover {
@@ -212,7 +251,7 @@ body { background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(186,186,
   height:50px;
   float: left;
   margin-top: 22px;
-  margin-left: 150px;
+  margin-left: 25px;
 }
 
 .Nav_ContainerDark {
