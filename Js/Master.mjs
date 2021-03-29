@@ -40,7 +40,6 @@ function Initialize() {
   PageHandler = new NelgaraMaster(document);
   PageHandler.Initialize();
   //OnClickLightSwitch();
-  window.onscroll = OnScroll;
   pageLoaded = true;
 }
 
@@ -239,23 +238,6 @@ class NelgaraMaster {
 
 }
 
-function OnScroll(e) {
-  var elem = document.getElementById("Footer");
-  var val = (document.documentElement.scrollTop  + $(window).height());
-  if(val >= $(document).height()) {
-    if(elem.style.display == "none" || elem.style.display == "") {
-      elem.style.display = "block";
-      elem.className = "animated fadeInUp";
-    }
-  } else {
-    if(elem.style.display == "block") {
-      elem.className = "animated fadeOutDown";
-      setTimeout(() => {
-        elem.style.display = "none";
-      }, 1000);
-    }
-  }
-}
 
 function OnServicesClick(e) {
 
