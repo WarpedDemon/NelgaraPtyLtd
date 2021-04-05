@@ -1,6 +1,6 @@
 <?php
 
-class MainProfileContentHandler {
+class MainContentHandler {
   private $Used = [];
   private $SaveIndex = -1;
 
@@ -79,5 +79,5 @@ class MainProfileContentHandler {
 
 }
 
-$MainProfileContentHandlerHelper = new MainProfileContentHandler();
+$MainContentHandlerHelper = new MainContentHandler();
 ?>

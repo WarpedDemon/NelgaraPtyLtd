@@ -37,7 +37,7 @@
     <a id="WhatWeDo"></a>
     <div style="margin-top: 700px;"></div>
     <?php include("Php/ProfileContent.php");
-      $ProfileContentHandlerHelper->CreateNewContent("NickNoonan", "LEFT", "<b>Nicholas (Nick) Noonan</b>", "
+      $MainContentHandlerHelper->CreateNewContent("NickNoonan", "LEFT", "<b>Nicholas (Nick) Noonan</b>", "
             Experienced Commercial Manager with a demonstrated history of working in
             the construction industry. Skilled in Value Engineering, Project & Cost Management,
             Procurement, Contracts, and Construction Law. A chartered professional with a
@@ -68,7 +68,7 @@
             Nelgara@outlook.com
         ");
 
-        $ProfileContentHandlerHelper->CreateNewContent("KateNoonan", "RIGHT", "<b>Kathryn (Kate) Noonan</b>", "
+        $MainContentHandlerHelper->CreateNewContent("KateNoonan", "RIGHT", "<b>Kathryn (Kate) Noonan</b>", "
               Experienced Supply Chain Manager, qualified Bookkeeper/Accountant to Cert IV,
               and can also provide contract administration services. Kate has a demonstrated
               history of working in the manufacturing industry and providing professional
@@ -91,7 +91,7 @@
               Nelgara@outlook.com
           ");
 
-      $ProfileContentHandlerHelper->CreateNewContent("PeterHooks", "LEFT", "<b>Peter (Pete) Hooks</b>", "
+      $MainContentHandlerHelper->CreateNewContent("PeterHooks", "LEFT", "<b>Peter (Pete) Hooks</b>", "
             Experienced Contracts/Commercial Manager with a demonstrated history of
             working in the construction industry in both the Engineering and Building
             disciplines. Skilled in working with clients to deliver successful outcomes
@@ -126,7 +126,7 @@
             peter.nelgara@outlook.com
         ");
 
-        $ProfileContentHandlerHelper->CreateNewContent("PaulBrown", "RIGHT", "<b>Paul Brown</b>", "
+        $MainContentHandlerHelper->CreateNewContent("PaulBrown", "RIGHT", "<b>Paul Brown</b>", "
               Paul is a seasoned Civil Engineer and specialist Project Engineering Manager.
               He has 30+ years of experience in delivering projects, engineering management
               and designs for the resources, infrastructure and construction sectors.
@@ -167,7 +167,7 @@
               paulbrown.nelgara@outlook.com
           ");
 
-          $ProfileContentHandlerHelper->CreateNewContent("JasonWinter", "LEFT", "<b>Jason Winter</b>", "
+          $MainContentHandlerHelper->CreateNewContent("JasonWinter", "LEFT", "<b>Jason Winter</b>", "
                 Jason has a Degree in Construction Management and a Bachelor of
                 Commerce. He is a Senior Consultant with Nelgara working often
                 in the position of contracts manager or contracts specialist
