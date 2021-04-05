@@ -36,7 +36,7 @@
     ?>
     <a id="WhatWeDo"></a>
     <div style="margin-top: 700px;"></div>
-    <?php include("Php/MainContent.php");
+    <?php include("Php/ProfileContent.php");
       $ProfileContentHandlerHelper->CreateNewContent("NickNoonan", "LEFT", "<b>Nicholas (Nick) Noonan</b>", "
             Experienced Commercial Manager with a demonstrated history of working in
             the construction industry. Skilled in Value Engineering, Project & Cost Management,
