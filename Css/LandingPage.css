@@ -91,19 +91,6 @@ body { background-color: #fffdfa; }
   display: inline-block;
 }
 
-.MainContentText{
-  color: black;
-  min-width: 250px;
-  height: auto;
-  position: relative;
-  margin-top: 15px;
-  margin-bottom: 50px;
-  padding:15px;
-}
-
-.MainContentClass:first-child {
-}
-
 .MainContentClass img{
   color: black;
   margin-top: 7vh;
@@ -122,6 +109,20 @@ body { background-color: #fffdfa; }
   padding-bottom: 5px;
   margin-top: 7vh;
 }
+
+.MainContentText{
+  color: black;
+  min-width: 250px;
+  height: auto;
+  position: relative;
+  margin-top: 15px;
+  margin-bottom: 50px;
+  padding:15px;
+}
+
+.MainContentClass:first-child {
+}
+
 .MainContentBoxClass {
   color: black;
   border-radius: 5px;
@@ -319,6 +320,18 @@ body { background-color: #fffdfa; }
   list-style: none;
 }
 
+.ProfileContentClass {
+  min-width: 250px;
+  position: relative;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  height: auto;
+  width: 80vw;
+  margin-left: 10vw;
+  border-radius: 15px;
+  display: inline-block;
+}
+
 .ProfileContentClass img {
   color: black;
   margin-top: 7vh;
@@ -330,4 +343,10 @@ body { background-color: #fffdfa; }
   float: left;
   background-color: #ebe0c6;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.ProfileContentClass h1{
+  padding-left: 35px;
+  padding-bottom: 5px;
+  margin-top: 7vh;
 }
