@@ -49,7 +49,7 @@ class MainContentHandler {
         ';
     if($FloatDirection == "LEFT") {
       echo '
-          <img class="ContentImage" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
+          <img class="ContentImage" id="ProfileMainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
           <div id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
             <h1 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h1>
             <hr style="border-color: #eeeeee;"/>
@@ -70,7 +70,7 @@ class MainContentHandler {
               ' . html_entity_decode($Text) . '
           </p>
         </div>
-        <img style="float: right !important;" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
+        <img style="float: right !important;" id="ProfileMainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
         </div>
       ';
     }
