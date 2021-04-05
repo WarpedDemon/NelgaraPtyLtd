@@ -16,7 +16,7 @@
 
     <div class="column">
       <div class="row">
-        <h2><a href="index.php" style="text-decoration: none; color: black;"> Nelgara Pty Ltd </a></h2>
+        <h2><a href="index.php" style="text-decoration: none;"> Nelgara Pty Ltd </a></h2>
       </div>
       <div class="row">
         <!--middle-->
@@ -32,7 +32,7 @@
       </div>
       <div class="row">
        <!--middle-->
-        <a style="color:black;" href="tel:+6143433161">TEL: +61 (0)434 33 161</a>
+        <a href="tel:+6143433161">TEL: +61 (0)434 33 161</a>
       </div>
       <div class="row">
       </div>
