@@ -1,6 +1,6 @@
 <?php
 
-class ProfileContentHandler {
+class MainProfileContentHandler {
   private $Used = [];
   private $SaveIndex = -1;
 
@@ -49,7 +49,7 @@ class ProfileContentHandler {
         ';
     if($FloatDirection == "LEFT") {
       echo '
-          <img class="ProfileImage" id="ProfileContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
+          <img class="ContentImage" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
           <div id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
             <h1 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h1>
             <hr style="border-color: #eeeeee;"/>
@@ -70,7 +70,7 @@ class ProfileContentHandler {
               ' . html_entity_decode($Text) . '
           </p>
         </div>
-        <img style="float: right !important;" id="ProfileContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
+        <img style="float: right !important;" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
         </div>
       ';
     }
@@ -79,5 +79,5 @@ class ProfileContentHandler {
 
 }
 
-$ProfileContentHandlerHelper = new ProfileContentHandler();
+$MainProfileContentHandlerHelper = new MainProfileContentHandler();
 ?>
