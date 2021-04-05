@@ -45,7 +45,7 @@ class MainContentHandler {
     }
 
     echo '
-        <div id="MainContent'. $this->SaveIndex .'" class="MainContentClass animated fadeInLeft wow">
+        <div id="MainContent'. $this->SaveIndex .'" class="ProfileContentClass animated fadeInLeft wow">
         ';
     if($FloatDirection == "LEFT") {
       echo '
