@@ -318,3 +318,8 @@ body { background-color: #fffdfa; }
   display: inline-block;
   list-style: none;
 }
+
+.ProfileImage{
+  height: 55vh;
+  width: 30vw;
+}
