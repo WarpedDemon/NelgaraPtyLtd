@@ -51,7 +51,7 @@ class MainContentHandler {
       echo '
           <img class="ContentImage" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
           <div id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
-            <h3 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h3>
+            <h3 class="ContentTitleClass" id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h3>
             <hr style="border-color: #eeeeee;"/>
             <br/>
             <p id="MainContentText' . $this->SaveIndex . '" class="MainContentText">
