@@ -5,13 +5,13 @@
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
     <meta property="title" content="Nelgara Pty Ltd | People">
-    <meta name="description" content="Nelgara Pty Ltd has a great team of hard working professionals. View their successes here!">
+    <meta name="description" content="At Nelgara Pty Ltd we have a great team of hard working professionals. View their successes here!">
     <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
-    <meta property="site_name" content="Nelgara Pty Ltd">
+    <meta property="site_name" content="Commericial Project Management Solutions | Nelgara Pty Ltd">
 
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">

@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
-    <meta name="description" content="At Nelgara Pty Ltd we offer a wide range of commericial Construction, Industry services in many industries.">
+    <meta name="description" content="Nelgara Pty Ltd provides you with bespoke Business & Project Risk Services.  Our Years Of Experience means our Team & Services are Professional & Trustworthy.">
     <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta property="title" content="Nelgara Pty Ltd | Construction Industry 🏗️">
+    <meta property="title" content="Business & Project Risk Services | Nelgara Pty Ltd">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
     <meta property="site_name" content="nelgara">
@@ -28,12 +28,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title>Construction Industry 🏗️ | Nelgara Pty Ltd</title>
+    <title>Business & Project Risk Services | Nelgara Pty Ltd</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("<b>Industries</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>Business & Project Risk Services</b>");
     ?>
     <a id="WhatWeDo"></a>
     <div style="margin-top: 700px;"></div>

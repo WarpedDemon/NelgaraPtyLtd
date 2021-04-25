@@ -4,23 +4,22 @@
     <meta charset="utf-8">
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
-    <meta property="title" content="Commericial Construction Services 🏗️ | Nelgara Pty Ltd">
+    <meta property="title" content="Commercial Project Management Solutions | Nelgara Pty Ltd">
     <meta name="description" content="Nelgara Pty Ltd is an Australian commercial management consulting firm
       that leverages its significant industry experience to develop and apply
-      best practice solutions">
-    <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
+      best practice solutions.">
+    <meta name="keywords" content="Commercial Project Management Solutions">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
-    <meta property="site_name" content="nelgara">
+    <meta property="site_name" content="Commercial Project Management Solutions | Nelgara Pty Ltd">
 
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
     <link rel="stylesheet" href="Css/Extras.css">
     <link rel="stylesheet" href="Css/animate.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-
 
     <script src="Js/Master.mjs"></script>
     <script src="Js/jquery.min.js"></script>
@@ -30,12 +29,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title>Nelgara Pty Ltd | Commercial Construction 🏗️</title>
+    <title>Commercial Project Management Solutions | Nelgara Pty Ltd</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("<b>Commercial Construction</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>Commercial Project Management Solutions</b>");
     ?>
     <a id="WhatWeDo"></a>
     <div style="margin-top: 700px;"></div>

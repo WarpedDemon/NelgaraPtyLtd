@@ -51,7 +51,7 @@ class MainContentHandler {
       echo '
           <img class="ContentImage" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
           <div id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
-            <h1 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h1>
+            <h3 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h3>
             <hr style="border-color: #eeeeee;"/>
             <br/>
             <p id="MainContentText' . $this->SaveIndex . '" class="MainContentText">
@@ -63,7 +63,7 @@ class MainContentHandler {
     } else {
       echo '
         <div style="float: left !important;" id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
-          <h1 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h1>
+          <h3 id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h3>
           <hr style="border-color: #eeeeee;"/>
           <br/>
           <p id="MainContentText' . $this->SaveIndex . '" class="MainContentText">

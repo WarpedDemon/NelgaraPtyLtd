@@ -9,10 +9,10 @@
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta property="title" content="nelgara pty ltd about construction services australia commericial perth kallaroo nick noonan">
+    <meta property="title" content="Terms and Conditions | Nelgara Pty Ltd">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
-    <meta property="site_name" content="nelgara">
+    <meta property="site_name" content="Commericial Project Management Solutions | Nelgara Pty Ltd">
 
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
@@ -28,12 +28,12 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title> Nelgara Pty Ltd - Terms and Conditions</title>
+    <title>Terms and Conditions | Nelgara Pty Ltd</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("Commercial Construction - <b>Terms and Conditions</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>Terms and Conditions</b>");
     ?>
     <a href="../Terms.pdf">Click here do download the PDF</a>
     <div style="margin-left:15%;margin-right:15%;">

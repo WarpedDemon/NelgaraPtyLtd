@@ -5,14 +5,14 @@
     <meta name="google-site-verification" content="txgKmeRnG--tbzmjs6dsxKpFw-x3RCL2t_jCDioBfDo" />
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
     <meta name="description" content="Nelgara Pty Ltd contact details.">
-    <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
+    <meta name="keywords" content="Commericial Project Management Solutions Contact Details">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta property="title" content="Nelgara Pty Ltd | About">
+    <meta property="title" content="Nelgara Pty Ltd | Contact Us">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
-    <meta property="site_name" content="nelgara">
+    <meta property="site_name" content="Commericial Project Management Solutions | Nelgara Pty Ltd">
 
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
@@ -28,17 +28,17 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title>Nelgara Pty Ltd - About</title>
+    <title>Nelgara Pty Ltd | Contact Us</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
     <?php include("Php/Banner.php");
-      $BannerHandlerHelper->CreateNewContent("<b>About</b>");
+      $BannerHandlerHelper->CreateNewContent("<b>Contact Us</b>");
     ?>
     <a id="WhatWeDo"></a>
     <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
-      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Contact</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Contact Us</b>", "
           Executive Headquarters
           28 Henderson Drive
           Kallaroo

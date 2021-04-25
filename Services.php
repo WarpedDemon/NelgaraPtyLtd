@@ -6,14 +6,14 @@
     <meta name="google-site-verification" content="xkHDb2_zgTzNpDumgrN7J39GOzcAilbnu3ZnP9G_Q8A" />
 
     <meta name="description" content="At Nelgara Pty Ltd we offer a wide range of commercial construction services.">
-    <meta name="keywords" content="HTML, CSS, XML, JavaScript, Php, Nelgara, Nick, Noonan, Commercial, Construction, Services, Peter, Hooks, Katherine, James, Australian, Australia, Perth, Kallaroo, nelgara, australia, contruction services perth,">
+    <meta name="keywords" content="Commercial Construction Services">
     <meta name="author" content="James Nicholas Noonan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta property="title" content="Commercial Construction Services🏗️ | Nelgara Pty Ltd>
+    <meta property="title" content="Commercial Construction Services | Nelgara Pty Ltd">
     <meta property="url" content="https://nelgara.com.au">
     <meta property="type" content="website">
-    <meta property="site_name" content="nelgara">
+    <meta property="site_name" content="Commericial Project Management Solutions | Nelgara Pty Ltd">
 
     <link rel="stylesheet" href="Css/LandingPage.css">
     <link rel="stylesheet" href="Css/Mobile.css">
@@ -29,7 +29,7 @@
     <script type="text/javascript">
       new WOW().init();
     </script>
-    <title>Nelgara Pty Ltd | Commercial Construction Services🏗️</title>
+    <title>Commercial Construction Services | Nelgara Pty Ltd</title>
   </head>
   <body>
     <?php include("Php/Header.php"); ?>
