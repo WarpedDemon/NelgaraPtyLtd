@@ -85,7 +85,7 @@
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b> Improvement Services</b>", "
-          Services for projects under duress;<
+          Services for projects under duress;
           Develop and implement business commercial management processes;
           <br><br>
           Nelgara continues to draw on its actual delivery experience integrated with
