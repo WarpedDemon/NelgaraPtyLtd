@@ -40,23 +40,23 @@
     <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>The business</b>", "
-            We have established Nelgara Pty Ltd to provide clients with industry
-            expertise from experienced resources contracted to deliver commercial
-            aspects for businesses and projects and can provide resources to supplement
-            peak work demands in line with your technical brief/requirements.
-
-            We provide following services:
+          We have established Nelgara Pty Ltd to provide clients with industry
+          expertise from experienced resources contracted to deliver commercial
+          aspects for businesses and projects and can provide resources to supplement
+          peak work demands in line with your technical brief/requirements.
+          <br><br>
+          We provide following services:
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Business and Project Risk Services</b>", "
-            Businesses
-
-            Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements,
-            minor professional Services Agreements;
-            Pre-Contract Review of Contract Terms prior to submission of bids;
-            Advice on Contract Negotiations;
-            Project Commercial Controls health checks;
-            Through our partner consultants, Estimating/Planning Services;
+          Businesses
+          <br><br>
+          Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements,
+          minor professional Services Agreements;
+          Pre-Contract Review of Contract Terms prior to submission of bids;
+          Advice on Contract Negotiations;
+          Project Commercial Controls health checks;
+          Through our partner consultants, Estimating/Planning Services;
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Projects</b>", "
@@ -68,13 +68,13 @@
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Management</b>", "
-            Project Management
-
-            Project management support;
-            Project reviews and due diligence;
-            Risk management analytics and advice;
-            Contract management;
-            Commercial Operational readiness;
+          Project Management
+          <br><br>
+          Project management support;
+          Project reviews and due diligence;
+          Risk management analytics and advice;
+          Contract management;
+          Commercial Operational readiness;
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Project Controls</b>", "
@@ -85,12 +85,12 @@
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Improvement Services</b>", "
-            Services for projects under duress;<
-            Develop and implement business commercial management processes;
-
-            Nelgara continues to draw on its actual delivery experience integrated with
-            the latest technology solutions to provide a unique firm that delivers
-            sustainable outcomes for an ever-changing world.
+          Services for projects under duress;<
+          Develop and implement business commercial management processes;
+          <br><br>
+          Nelgara continues to draw on its actual delivery experience integrated with
+          the latest technology solutions to provide a unique firm that delivers
+          sustainable outcomes for an ever-changing world.
         ");
     ?>
     <div style="height:250px;"> </div>

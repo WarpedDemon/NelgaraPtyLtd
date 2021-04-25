@@ -61,9 +61,12 @@
         $MainContentHandlerHelper->CreateNewContent("cheese", "RIGHT", "<b>Expertise</b>", "
             Nelgara Pty Ltd brings more than 100 years of experience in delivering
             solutions across the end to end phases of projects both pre and post
-            construction. Nelgara continues to draw on its actual delivery experience
+            construction.
+            <br><br>
+            Nelgara continues to draw on its actual delivery experience
             integrated with the latest technology solutions to provide a unique
             firm that delivers sustainable outcomes for an ever-changing world.
+            <br><br>
             We are Skilled in Project Leadership, People, Schedule and Cost Management,
             Sub-Contractor Management, and Stressed Project Recovery
             (more consultants are joining monthly).
@@ -73,6 +76,7 @@
             Nelgara Pty Ltd is based in Perth, WA but consultants have both worked on projects
             and or being responsible at a business Contracts Manager or Commercial Manager level
             for projects in Queensland, NSW and Victoria.
+            <br><br>
             We can also provide solutions through our network of consultant partners in the industry.
           ");
     ?>

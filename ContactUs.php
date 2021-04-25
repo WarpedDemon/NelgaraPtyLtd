@@ -40,11 +40,17 @@
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Contact Us</b>", "
           Executive Headquarters
+          <br><br>
           28 Henderson Drive
+          <br><br>
           Kallaroo
+          <br><br>
           Perth
+          <br><br>
           WA 6025
+          <br><br>
           TEL: +61 (0)434 333 161
+          <br><br>
           E-Mail: Nelgara@outlook.com
         ");
 
