@@ -36,8 +36,9 @@
       $BannerHandlerHelper->CreateNewContent("<b>Terms and Conditions</b>");
     ?>
     <div style="margin-top: 700px;"></div>
-    <a href="../Terms.pdf">Click here do download the PDF</a>
     <div style="margin-left:15%;margin-right:15%;">
+      <a href="../Terms.pdf">Click here do download the PDF</a>
+      <br><br>
       <p/><br/><p/>
       1.	Nelgara Pty Ltd (Nelgara) will provide to the
       client the services outlined in the accompanying
@@ -555,11 +556,11 @@
           <td></td>
         </tr>
       </table>
+      <br><br>
+      <a href="../Terms.pdf">Click here do download the PDF</a>
     </div>
 
-    <a href="../Terms.pdf">Click here do download the PDF</a>
-
-    <div style="margin-top: 700px;"></div>
+    <div style="margin-top: 400px;"></div>
     <?php include("Php/Footer.php");
      ?>
   </body>
