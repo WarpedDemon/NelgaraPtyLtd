@@ -35,6 +35,7 @@
     <?php include("Php/Banner.php");
       $BannerHandlerHelper->CreateNewContent("<b>Terms and Conditions</b>");
     ?>
+    <div style="margin-top: 700px;"></div>
     <a href="../Terms.pdf">Click here do download the PDF</a>
     <div style="margin-left:15%;margin-right:15%;">
       <p/><br/><p/>
@@ -558,7 +559,7 @@
 
     <a href="../Terms.pdf">Click here do download the PDF</a>
 
-    <span style="height:450px;"> </span>
+    <div style="margin-top: 700px;"></div>
     <?php include("Php/Footer.php");
      ?>
   </body>
