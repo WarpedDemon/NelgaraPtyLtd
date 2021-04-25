@@ -5,7 +5,7 @@
 
     <div class="column">
       <div class="row">
-        <a href="#WhatWeDo"><img src="img/logo.png" style="margin-top: 8px;"></img></a>
+        <a href="#top"><img src="img/logo.png" style="margin-top: 8px;"></img></a>
       </div>
       <div class="row">
         <!--middle-->

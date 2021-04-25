@@ -3,7 +3,7 @@ echo '
 
     <div id="Header">
       <a id="top"></a>
-      <img src="img/logo.png" id="Logo"></img>
+      <a href="../"><img src="img/logo.png" id="Logo"></img></a>
       <a id="LightSwitch" class=""><span class="fas fa-lightbulb"></span></a>
       <h2 id="Title" class=""><a href="index.php" id="Title_Text" class=""> Nelgara Pty Ltd </a></h2>
       <div id="Nav_Container" class="">
