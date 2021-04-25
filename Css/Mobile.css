@@ -10,4 +10,14 @@
   .MainContentClass img{
     width: 80vw;
   }
+
+  .MainContentBoxClass{
+    min-width: 340px;
+    font-size: 20px;
+  }
+
+  .scrollButton{
+    width: 5.5vw;
+    height: 5.5vw;
+  }
 }
