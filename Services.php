@@ -51,9 +51,7 @@
       $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b> Business and Project Risk Services</b>", "
           Businesses
           <br><br>
-          Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements,
-          <br><br>
-          minor professional Services Agreements;
+          Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements, minor professional Services Agreements;
           <br><br>
           Pre-Contract Review of Contract Terms prior to submission of bids;
           <br><br>
