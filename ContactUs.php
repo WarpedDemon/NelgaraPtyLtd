@@ -38,7 +38,7 @@
     <a id="WhatWeDo"></a>
     <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
-      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Contact Us</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b> Contact Us</b>", "
           Executive Headquarters
           <br><br>
           28 Henderson Drive

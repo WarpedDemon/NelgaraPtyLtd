@@ -39,7 +39,7 @@
     <a id="WhatWeDo"></a>
     <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
-        $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b>What We Do</b>", "
+        $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b> What We Do</b>", "
               Innovative Commercial and Project Management Solutions
               <br><br>
               Nelgara Pty Ltd is an Australian commercial management consulting firm
@@ -58,7 +58,7 @@
               We put clients first.
           ");
 
-        $MainContentHandlerHelper->CreateNewContent("cheese", "RIGHT", "<b>Expertise</b>", "
+        $MainContentHandlerHelper->CreateNewContent("cheese", "RIGHT", "<b> Expertise</b>", "
             Nelgara Pty Ltd brings more than 100 years of experience in delivering
             solutions across the end to end phases of projects both pre and post
             construction.
@@ -72,7 +72,7 @@
             (more consultants are joining monthly).
           ");
 
-        $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b>Locations</b>", "
+        $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b> Locations</b>", "
             Nelgara Pty Ltd is based in Perth, WA but consultants have both worked on projects
             and or being responsible at a business Contracts Manager or Commercial Manager level
             for projects in Queensland, NSW and Victoria.

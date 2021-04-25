@@ -39,7 +39,7 @@
     <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Business and Project Risk Services</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b> Business and Project Risk Services</b>", "
           We have established Nelgara Pty Ltd to provide clients with industry
           expertise from experienced resources contracted to deliver commercial
           aspects for businesses and projects and can provide resources to
@@ -49,7 +49,7 @@
           We provide the follwing services:
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Marine</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b> Marine</b>", "
           Humber International Terminal;
           <br><br>
           Immingham Western Lead in Jetty;
@@ -69,7 +69,7 @@
           Cromer Slipway;
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>LNG</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b> LNG</b>", "
           Pluto 2;
           <br><br>
           Devil Creek (including Camp);
@@ -81,7 +81,7 @@
           Newgen Kwinana Power Station (Alstom)
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Resource Projects</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b> Resource Projects</b>", "
           RTIO Cape Lambert A & B camp;
           <br><br>
           RTIO North West Coastal Highway (Road Diversion & Bridge over Rail);
@@ -117,7 +117,7 @@
           Talison Greenbushes Mine Expansion (Lithium);
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Rail Related</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b> Rail Related</b>", "
           Aubin Grove Train Station;
           <br><br>
           RTIO Rosella Bellbird Sidings (Indigenous JV);
@@ -133,7 +133,7 @@
           Narngulu Rail Depot;
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Main Roads</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b> Main Roads</b>", "
           Mandurah Traffic Bridge;
           <br><br>
           Reid Highway;
@@ -161,7 +161,7 @@
           Many Projects UK based inclusive of Frameworks (Alliances)
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Water Related</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b> Water Related</b>", "
           Ellenbrook Water Tank;
           <br><br>
           Harvey Water Tank;
@@ -173,7 +173,7 @@
           Many Projects UK based inclusive of Frameworks (Alliances);
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Airport Related;</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b> Airport Related;</b>", "
           Perth Airport Skybridge;
           <br><br>
           Tindall Airforce Base NT;
@@ -181,7 +181,7 @@
           RAAF Base Amberley Buildings & Refurbishments (QLD);
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b>Building Projects</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "LEFT", "<b> Building Projects</b>", "
           Primehouse Office Development;
           <br><br>
           Mount Hospital – Hybrid and Catheter Lab Refurbishment, Medical Gas Equipment Upgrade;
@@ -197,7 +197,7 @@
           Many Projects UK based inclusive of Schools, Warehouses, Housing and Hospitals;
         ");
 
-      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b>Others;</b>", "
+      $MainContentHandlerHelper->CreateNewContent("Random", "RIGHT", "<b> Others;</b>", "
           Multiple Projects Sandvik (Stacker Reclaimer construction);
           <br><br>
           Muja Coal demolition and refurbishment (Cost Plus Contract Negotiation and agreement);

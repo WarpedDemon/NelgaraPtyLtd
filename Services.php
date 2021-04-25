@@ -39,7 +39,7 @@
     <a id="WhatWeDo"></a>
     <div style="margin-top: 700px;"></div>
     <?php include("Php/MainContent.php");
-      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>The business</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b> The business</b>", "
           We have established Nelgara Pty Ltd to provide clients with industry
           expertise from experienced resources contracted to deliver commercial
           aspects for businesses and projects and can provide resources to supplement
@@ -48,7 +48,7 @@
           We provide following services:
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Business and Project Risk Services</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b> Business and Project Risk Services</b>", "
           Businesses
           <br><br>
           Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements,
@@ -59,7 +59,7 @@
           Through our partner consultants, Estimating/Planning Services;
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Projects</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b> Projects</b>", "
           Project Procurement Services (Startup /Strategy/Procurement);
           Preparation of Summary Key Obligations and Rights (Project Commercial Game Plan);
           Quantity Surveyor/Contract Administrator Services (short/long term);
@@ -67,7 +67,7 @@
           Variation/Delay/Disruption & Extension of Time Claim preparation or management;
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Management</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b> Management</b>", "
           Project Management
           <br><br>
           Project management support;
@@ -77,14 +77,14 @@
           Commercial Operational readiness;
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b>Project Controls</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b> Project Controls</b>", "
           Cost management;
           Planning and scheduling advice;
           Change management;
           Project reporting;
       ");
 
-      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b>Improvement Services</b>", "
+      $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b> Improvement Services</b>", "
           Services for projects under duress;<
           Develop and implement business commercial management processes;
           <br><br>
