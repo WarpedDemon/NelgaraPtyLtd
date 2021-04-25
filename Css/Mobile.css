@@ -2,4 +2,12 @@
   body{
     width:0;
   }
+
+  #BannerId{
+    margin-left:0vw;
+  }
+
+  .MainContentClass img{
+    width: 80vw;
+  }
 }
