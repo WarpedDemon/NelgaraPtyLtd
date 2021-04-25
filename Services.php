@@ -52,18 +52,27 @@
           Businesses
           <br><br>
           Drafting of, or advice upon, Subcontracts, Supply Agreements, Consultancy Agreements,
+          <br><br>
           minor professional Services Agreements;
+          <br><br>
           Pre-Contract Review of Contract Terms prior to submission of bids;
+          <br><br>
           Advice on Contract Negotiations;
+          <br><br>
           Project Commercial Controls health checks;
+          <br><br>
           Through our partner consultants, Estimating/Planning Services;
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b> Projects</b>", "
           Project Procurement Services (Startup /Strategy/Procurement);
+          <br><br>
           Preparation of Summary Key Obligations and Rights (Project Commercial Game Plan);
+          <br><br>
           Quantity Surveyor/Contract Administrator Services (short/long term);
+          <br><br>
           Program Review/Management advice;
+          <br><br>
           Variation/Delay/Disruption & Extension of Time Claim preparation or management;
       ");
 
@@ -71,21 +80,29 @@
           Project Management
           <br><br>
           Project management support;
+          <br><br>
           Project reviews and due diligence;
+          <br><br>
           Risk management analytics and advice;
+          <br><br>
           Contract management;
+          <br><br>
           Commercial Operational readiness;
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b> Project Controls</b>", "
           Cost management;
+          <br><br>
           Planning and scheduling advice;
+          <br><br>
           Change management;
+          <br><br>
           Project reporting;
       ");
 
       $MainContentHandlerHelper->CreateNewContent("random", "RIGHT", "<b> Improvement Services</b>", "
           Services for projects under duress;
+          <br><br>
           Develop and implement business commercial management processes;
           <br><br>
           Nelgara continues to draw on its actual delivery experience integrated with
