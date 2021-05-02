@@ -36,7 +36,7 @@
       $BannerHandlerHelper->CreateNewContent("<b>Contact Us</b>");
     ?>
     <a id="WhatWeDo"></a>
-    <div style="margin-top: 700px;"></div>
+    <div class="spacer"></div>
     <?php include("Php/MainContent.php");
       $MainContentHandlerHelper->CreateNewContent("random", "LEFT", "<b> Contact Us</b>", "
           Executive Headquarters
@@ -55,7 +55,7 @@
         ");
 
     ?>
-    <div style="height:250px;"> </div>
+    <div class="bottomspacer"> </div>
     <?php include("Php/Footer.php");
      ?>
   </body>

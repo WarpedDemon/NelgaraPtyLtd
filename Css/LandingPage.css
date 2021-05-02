@@ -2,6 +2,14 @@
 html { overflow-x: hidden;}
 body { background-color: #fffdfa; }
 
+.spacer{
+  height: 700px;
+}
+
+.bottomspacer{
+  height: 150px;
+}
+
 .ContentTitleClass{
   padding-left: 10px;
   padding-top: 10px;
@@ -23,7 +31,11 @@ body { background-color: #fffdfa; }
 .copyrightText {
   color: grey;
 }
-
+.FooterImage {
+  margin-top: 8px;
+  width: 50px;
+  height: 50px;
+}
 #FooterText{
   padding-top: 15px;
   padding-left: 15px;
@@ -258,7 +270,10 @@ body { background-color: #fffdfa; }
 }
 
 .Nav_ContainerDark {
-  display: none !important;
+
+}
+.HamburgerDark {
+  color: white !important;
 }
 .Title_TextDark {
   color: white !important;
@@ -279,11 +294,13 @@ body { background-color: #fffdfa; }
   text-decoration: none;
 }
 #Hamburger {
+  color: black;
   display: none;
 }
 #Nav_Container{
   display: none;
 }
+
 .NavDark {
   color: white !important;
 }

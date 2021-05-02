@@ -35,7 +35,7 @@
       $BannerHandlerHelper->CreateNewContent("<b>Our Team</b>");
     ?>
     <a id="WhatWeDo"></a>
-    <div style="margin-top: 700px;"></div>
+    <div class="spacer"></div>
     <?php include("Php/ProfileContent.php");
       $MainContentHandlerHelper->CreateNewContent("NickNoonan", "LEFT", "<b> Nicholas (Nick) Noonan</b>", "
             Experienced Commercial Manager with a demonstrated history of working in
@@ -222,7 +222,7 @@
                 Nelgara@outlook.com
             ");
     ?>
-    <div style="height:250px;"> </div>
+    <div class="bottomspacer"> </div>
     <?php include("Php/Footer.php");
      ?>
   </body>

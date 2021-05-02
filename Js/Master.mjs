@@ -15,6 +15,7 @@ var Image_Sources2 = [
   "../img/startup.jpg",
   "../img/startup.jpg"
 ];
+/*
 window.onresize = function(evt) {
   if (!pageLoaded) { return; }
   var dimensions = {
@@ -24,14 +25,17 @@ window.onresize = function(evt) {
   if(dimensions.width < 1528) {
     PageHandler.SetSmallMode(true);
     document.getElementById("Hamburger").style.display = "block";
+    document.getElementById("Nav_Container").className = "NavContainerActive";
     document.getElementById("Nav").style.display = "none";
   } else {
     PageHandler.SetSmallMode(false);
     document.getElementById("Hamburger").style.display = "none";
     document.getElementById("Nav").style.display = "block";
+    document.getElementById("Nav_Container").className = "";
     PageHandler.GetMenuElement().className = "NavClass fadeInDown animated";
   }
 };
+*/
 
 var PageHandler;
 
@@ -64,7 +68,7 @@ function changeBackground(active)
       titleText.className = "Title_TextDark"
       lightSwitch.className = "LightSwitcDark";
       navContainer.className = "Nav_ContainerDark";
-      hamburger.className = "HamburgerDark";
+      hamburger.className = "HamburgerDark fa fa-bars";
       nav.className = "NavDark";
       services.className = "ServicesDark";
       industries.className = "IndustriesDark";
@@ -79,7 +83,7 @@ function changeBackground(active)
       titleText.className = ""
       lightSwitch.className = "";
       navContainer.className = "";
-      hamburger.className = "";
+      hamburger.className = "fa fa-bars";
       nav.className = "";
       services.className = "";
       industries.className = "";
@@ -150,11 +154,11 @@ function CheckMenuState() {
   var MenuElem = PageHandler.GetMenuElement();
 
   //console.log("Values: " + IsMenuOpen(MenuElem) + ", and, " + PageHandler.GetDisplay() + ", and " + PageHandler.GetSmallMode())
-  if(!IsMenuOpen(MenuElem) && PageHandler.GetDisplay() && PageHandler.GetSmallMode() && PageHandler.GetGate()) {
+  if(!IsMenuOpen(MenuElem) && PageHandler.GetDisplay() && PageHandler.GetGate()) {
     DisplayMenu(MenuElem);
     PageHandler.SetGate(false)
   }
-  if(IsMenuOpen(MenuElem) && !PageHandler.GetDisplay() && PageHandler.GetSmallMode() && PageHandler.GetGate()) {
+  if(IsMenuOpen(MenuElem) && !PageHandler.GetDisplay() && PageHandler.GetGate()) {
     HideMenu(MenuElem);
     PageHandler.SetGate(false);
   }
@@ -162,8 +166,10 @@ function CheckMenuState() {
 
 function OnClickHM()
 {
+  console.log("Magic");
   PageHandler.SetDisplay(!PageHandler.GetDisplay());
   PageHandler.SetGate(true);
+  CheckMenuState();
 }
 
 

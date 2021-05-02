@@ -7,7 +7,7 @@ echo '
       <a id="LightSwitch" class=""><span class="fas fa-lightbulb"></span></a>
       <h2 id="Title" class=""><a href="index.php" id="Title_Text" class=""> Nelgara Pty Ltd </a></h2>
       <div id="Nav_Container" class="">
-      <span id="Hamburger" style="color:white;" class="fa fa-bars"></span>
+      <span id="Hamburger" class="fa fa-bars"></span>
       </div>
         <ul id="Nav">
           <a href="../Services.php" id="Services"><li class="animate fadeInLeft wow" data-wow-delay="0.25s"><b><p>Services</p></b></li></a>

@@ -37,7 +37,7 @@
       $BannerHandlerHelper->CreateNewContent("<b>Commercial Project Management Solutions</b>");
     ?>
     <a id="WhatWeDo"></a>
-    <div style="margin-top: 700px;"></div>
+    <div class="spacer"></div>
     <?php include("Php/MainContent.php");
         $MainContentHandlerHelper->CreateNewContent("cheese", "LEFT", "<b> What We Do</b>", "
               Innovative Commercial and Project Management Solutions
@@ -81,7 +81,7 @@
           ");
     ?>
     </div>
-    <div style="height:250px;"> </div>
+    <div class="bottomspacer"> </div>
     <?php include("Php/Footer.php"); ?>
   </body>
 </html>
