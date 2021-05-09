@@ -90,5 +90,14 @@
   .ProfileContentClass{
     width: 100vw;
     margin-left: 0vw;
+    margin-top: 0px;
+  }
+
+  .gradient-left{
+    height: 80%;
+  }
+
+  .gradient-right{
+    height: 80%;
   }
 }
