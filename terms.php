@@ -346,7 +346,7 @@
       of the courts in WA.
     </div>
 
-    <div style="margin-left:15%;margin-right:15%;">
+    <div class="termscon" style="margin-left:15%;margin-right:15%;">
     <p/><br/><p/>
     <d>
       <table>
