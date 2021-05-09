@@ -49,6 +49,11 @@
     width: 100vw;
   }
 
+  .ProfileContentClass img{
+    width: 80vw;
+    margin-top: 18vh;
+  }
+
   /* Navbar changes */
   #Hamburger {
     display: block;
