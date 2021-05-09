@@ -50,9 +50,8 @@
   }
 
   .ProfileContentClass img{
-    width: 80vw;
-    margin-top: 18vh;
-    height: 40vh;
+    width: 100vw;
+    height: 50vh;
   }
 
   /* Navbar changes */
@@ -86,5 +85,10 @@
   }
   .MainContentText{
     min-width: 210px;
+  }
+
+  .ProfileContentClass{
+    width: 100vw;
+    margin-left: 0vw;
   }
 }
