@@ -75,5 +75,7 @@
     height: 75px;
     margin-top: -10px;
   }
-
+  #Title_Text{
+    font-size: 15px;
+  }
 }
