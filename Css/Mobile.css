@@ -52,6 +52,7 @@
   .ProfileContentClass img{
     width: 80vw;
     margin-top: 18vh;
+    height: 40vh;
   }
 
   /* Navbar changes */
@@ -82,5 +83,8 @@
   }
   #Title_Text{
     font-size: 15px;
+  }
+  .MainContentText{
+    min-width: 210px;
   }
 }
