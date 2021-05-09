@@ -36,7 +36,7 @@
       $BannerHandlerHelper->CreateNewContent("<b>Terms and Conditions</b>");
     ?>
     <div class="spacer"></div>
-    <div style="margin-left:15%;margin-right:15%;">
+    <div class="terms" style="margin-left:15%;margin-right:15%;">
       <a href="../Terms.pdf">Click here do download the PDF</a>
       <br><br>
       <p/><br/><p/>

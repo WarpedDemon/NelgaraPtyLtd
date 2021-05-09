@@ -100,4 +100,11 @@
   .gradient-right{
     height: 80% !important;
   }
+
+  .terms{
+    width:90vw;
+    margin-top: 250px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
 }
