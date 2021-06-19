@@ -13,6 +13,11 @@
 
   #BannerId{
     margin-left:0vw;
+    margin-top: 33vh;
+  }
+
+  #videoContainer {
+    width: 100vw;
   }
 
   .MainContentClass img{
