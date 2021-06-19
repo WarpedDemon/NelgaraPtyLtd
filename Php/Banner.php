@@ -19,9 +19,6 @@
        </div>
      </div>
        <h1 id="BannerId">'. $Title .'</h1>
-       <a href="#WhatWeDo"><div class="scrollButton">
-           <span class="fas fa-chevron-down"></span>
-       </div></a>
        <div class="gradient-left"></div>
        <div class="gradient-right"></div>
      </div>
