@@ -44,11 +44,9 @@ class MainContentHandler {
       $ImageSource = "../img/peterhooks.png";
     }
 
-    echo '
-        <div id="MainContent'. $this->SaveIndex .'" class="ProfileContentClass animated fadeInLeft wow">
-        ';
     if($FloatDirection == "LEFT") {
       echo '
+          <div id="MainContent'. $this->SaveIndex .'" class="ProfileContentClass animated fadeInLeft faster wow">
           <img class="ContentImage" id="ProfileMainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
           <div id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
             <h2 class="ContentTitleClass" id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h2>
@@ -62,7 +60,8 @@ class MainContentHandler {
         ';
     } else {
       echo '
-        <div style="float: left !important;" id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
+          <div id="MainContent'. $this->SaveIndex .'" class="ProfileContentClass animated fadeInRight faster wow">
+          <div style="float: left !important;" id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
           <h2 class="ContentTitleClass" id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h2>
           <hr style="border-color: #eeeeee;"/>
           <br/>

@@ -45,10 +45,10 @@ class MainContentHandler {
     }
 
     echo '
-        <div id="MainContent'. $this->SaveIndex .'" class="MainContentClass animated fadeInLeft wow">
         ';
     if($FloatDirection == "LEFT") {
       echo '
+          <div id="MainContent'. $this->SaveIndex .'" class="MainContentClass animated fadeInLeft faster wow">
           <img class="ContentImage" id="MainContentImg'. $this->SaveIndex .'" src="' . $ImageSource . '"/>
           <div id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
             <h3 class="ContentTitleClass" id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h3>
@@ -62,7 +62,8 @@ class MainContentHandler {
         ';
     } else {
       echo '
-        <div style="float: left !important;" id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
+          <div id="MainContent'. $this->SaveIndex .'" class="MainContentClass animated fadeInRight faster wow">
+          <div style="float: left !important;" id="MainContentBox'. $this->SaveIndex .'" class="MainContentBoxClass">
           <h3 class="ContentTitleClass" id="MainContentTitle'. $this->SaveIndex .'"> ' . $Title . ' </h3>
           <hr style="border-color: #eeeeee;"/>
           <br/>
