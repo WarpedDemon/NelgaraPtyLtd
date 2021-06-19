@@ -80,8 +80,8 @@
             We can also provide solutions through our network of consultant partners in the industry.
           ");
     ?>
-    </div>
     <div class="bottomspacer"> </div>
-    <?php include("Php/Footer.php"); ?>
+    <?php include("Php/Footer.php");
+     ?>
   </body>
 </html>
