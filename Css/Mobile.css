@@ -20,6 +20,11 @@
     width: 100vw;
   }
 
+  #Title {
+    margin-top: 27px;
+    margin-left: 35px;
+  }
+
   .MainContentClass img{
     width: 100%;
   }
@@ -64,7 +69,7 @@
     display: block;
     font-size: 40px;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 37px;
     font-size: 40px;
   }
   #Nav {
