@@ -5,7 +5,7 @@
    function CreateNewContent($Title) {
      echo '
      <div id="videoContainer">
-     <script src="https://fast.wistia.com/embed/medias/24fkx58xfu.jsonp" async>
+     <script src="https://fast.wistia.com/embed/medias/24fkx58xfu.jsonp?wvideo=hashedid" async>
      </script>
      <script src="https://fast.wistia.com/assets/external/E-v1.js" async>
      </script>
